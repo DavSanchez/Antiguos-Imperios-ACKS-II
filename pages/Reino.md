@@ -4,3 +4,5 @@
   | Reino | Rey | - | Exarca/Cetranar |
   | Principado | Príncipe | Prefectura | Prefecto |
   | Ducado | Duque | Palatinado | Palatino |
+  | Condado | Conde | Legatura | Legado |
+  | Vizcondado |
