@@ -1,0 +1,2 @@
+- **Sobrenombres**: Ammonator, Ammonar, Lazhánder.
+- Títulos: Portador de luz, Dador de
