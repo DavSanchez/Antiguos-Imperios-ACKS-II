@@ -1,5 +1,5 @@
 - **Sobrenombres**: no tiene.
-- **Títulos**: Padre del Pesar
-- **Esferas de Influencia**: Fortuna, riqueza.
-- **Símbolos Sagrados**: Rueda.
+- **Títulos**: Padre del Pesar, Escriba Final.
+- **Esferas de Influencia**: Ritos funerarios.
+- **Símbolos Sagrados**: Calavera con pergamino.
 - **Animales sagrados**: Gato, urraca.
