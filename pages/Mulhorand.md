@@ -1,0 +1,12 @@
+## Mapas
+- ![YGZkPtRe2JxvMZOD-mulhorand.png](../assets/YGZkPtRe2JxvMZOD-mulhorand_1740319413468_0.png)
+- ![ACWLq5UfN8wJR7fD-mulhorand-location.png](../assets/ACWLq5UfN8wJR7fD-mulhorand-location_1740319418411_0.png)
+- ## Resumen
+- **Capital:** Skuld
+- **Población:** 5.339.520 (humanos 99%)
+- **Gobierno: **teocracia
+- **Religiones:** panteón mulhorandino
+- **Importaciones:** esclavos (de [[Zhay]]), especias, hierro, incienso, buena madera de construcción, perfumes
+- **Exportaciones:** cerveza, granito, libros de conjuros en blanco, oro, papel, piedras preciosas.
+- ---
+-
