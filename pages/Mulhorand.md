@@ -9,4 +9,9 @@
 - **Importaciones:** esclavos (de [[Zhay]]), especias, hierro, incienso, buena madera de construcción, perfumes
 - **Exportaciones:** cerveza, granito, libros de conjuros en blanco, oro, papel, piedras preciosas.
 - ---
--
+- Uno de los pocos imperios antiguos que ha sobrevivido hasta el presente, está bajo el gobierno de manifestaciones físicas de sus deidades. El país está generalmente cerrado al comercio y a las ideas del extranjero.
+- Mulhorand, que impopular en algunos países occidentales debido a la aceptación de la esclavitud, que es la base de su economía generalmente agraria, es una tierra exótica con magia potente, antigua tecnología y un clero poderoso.
+- Las gentes de Muhorand vienen de tres grupos raciales.
+	- Los gobernantes de Mulhorand vienen de las tribus del antiguo Raurin; son cetrinos, altos (casi como los hombres de occidente) y delgados. No tienen mucho vello corporal. A esta raza se le conoce como los Mulan. Las casas nobles de la región trazan su linaje hasta sus mismos dioses, y sus líderes son encarnaciones directas de las deidades. Mulhorand es una teocracia absoluta.
+	- Los habitantes originales de Mulhorand eran gentes de piel caoba similares a los que se encuentran en la región de Turmish. Son altos y musculados, con piel oscura, caras planas y pelo corto. A este grupo racial se le llama los Turami.
+	- El tercer tipo racial es el proveniente de las regiones de Amn, Tezhyr y las naciones occidentales del Mar Interior. Las gentes de este grupo racial, a quienes los Mulhorandinos se refieren como los Tezhenos, son el grueso de los esclavos de Mulhorand, pues llegan a esta región a través de los mercados de esclavos de Zhay.
