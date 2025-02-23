@@ -10,7 +10,7 @@ public:: true
 - [[Pakao, el explorador]]
 - [[Eos, el gladiador]]
 - [[Phessa, la sacerdotisa]]
-- [[Astra, el guardián de la bóveda]]
+- [[Astra, el guardián de la bóveda enano]]
 - [[Kobra, la ladrona]]
 - [[Astrid, la furia enana]]
 - [[Nari, la danzarina de espadas]]
