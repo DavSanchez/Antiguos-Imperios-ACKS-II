@@ -1,3 +1,5 @@
+public:: true
+
 - **Sobrenombres**: Türas (en [[Khessenta]]).
 - **Títulos**: Mariscal de la Justicia, Juez del Valor.
 - **Esferas de Influencia**: Justicia, fuerza, destreza marcial.
