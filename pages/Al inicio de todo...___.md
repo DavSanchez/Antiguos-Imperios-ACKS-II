@@ -15,5 +15,7 @@ public:: true
 - [[Astrid, la furia]]
 - [[Nari, la danzarina de espadas]]
 - [[Shamash-Nasir, el cruzado]]
+- ## Personajes No Jugadores
+-
 - # Dominios
 - [[Türos Lilium]]
