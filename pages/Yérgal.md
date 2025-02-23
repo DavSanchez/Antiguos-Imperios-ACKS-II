@@ -1,5 +1,5 @@
-- **Sobrenombres**: Calefa (en [[Khessenta]]).
-- **Títulos**: Dama de la Fortuna.
+- **Sobrenombres**: no tiene.
+- **Títulos**: Padre del Pesar
 - **Esferas de Influencia**: Fortuna, riqueza.
 - **Símbolos Sagrados**: Rueda.
 - **Animales sagrados**: Gato, urraca.
