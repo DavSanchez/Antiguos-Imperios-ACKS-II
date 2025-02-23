@@ -1,0 +1,5 @@
+- **Sobrenombres**: Calefa (en [[Khessenta]]).
+- **Títulos**: Dama de la Fortuna.
+- **Esferas de Influencia**: Fortuna, riqueza.
+- **Símbolos Sagrados**: Galeón, astrolabio.
+- **Animales sagrados**: Delfín, caballo.
