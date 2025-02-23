@@ -16,4 +16,4 @@
   the Lusaun Forest (#35) are an ongoing threat. The Palatine of
   Siadanos, Theremus Augilian, would welcome the assistance of
   adventurers.
-- Como [[Cyfaraun]], Siadanos es una antigua ciudad con trazas de pasado élfico, Imaskari y Unzhérico, capturada al imperio del este cuando [[Khessenta]] obtuvo la independencia de este último. Situada en el banco este del río Mirmen, Siadanos controla las rutas comerciales entre e
+- Como [[Cyfaraun]], Siadanos es una antigua ciudad con trazas de pasado élfico, Imaskari y Unzhérico, capturada al imperio del este cuando [[Khessenta]] obtuvo la independencia de este último. Situada en el banco este del río Mirmen, Siadanos controla las rutas comerciales entre la bóveda enana de Azen Radokh y las ciudades norteñas de Cyfaraun, Pyrgos y Larisa. También es la base de suministros para la franja suroeste de la Línea
