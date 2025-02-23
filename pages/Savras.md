@@ -1,4 +1,4 @@
-- **Sobrenombres**: Istreus, a veces se le confunde con Azut.
+- **Sobrenombres**: Istreus.
 - **Títulos**: Señor de los Secretos, El que Ve sin Ojos.
 - **Esferas de Influencia**: Conocimiento, aprendizaje, magia.
 - **Símbolos Sagrados**: Esfera de cristal, torre.
