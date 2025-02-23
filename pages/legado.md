@@ -1,1 +1,1 @@
-- Uno de los cargos
+- Uno de los cargos nobiliarios de Khessenta de acuerdo al tipo de reino gobernado. El equivalente a un conde.
