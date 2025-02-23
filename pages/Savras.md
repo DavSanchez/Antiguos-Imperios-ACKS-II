@@ -1,0 +1,5 @@
+- **Sobrenombres**: Naurivus.
+- **Títulos**Señor de los Secretos, El que Ve sin Ojos.
+- **Esferas de Influencia**: Amor, guerra, victoria.
+- **Símbolos Sagrados**: Estrella de 9 puntas, león.
+- **Animales sagrados:** León, halcón.
