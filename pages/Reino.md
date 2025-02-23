@@ -1,7 +1,7 @@
-- | Nombre común del dominio | Nombre común del cargo | Nombre en Khessenta | Nombre del cargo en Khessenta |
+- | Nombre común del dominio | Nombre común del cargo | Nombre en [[Khessenta]] | Nombre del cargo en [[Khessenta]] |
   | -----  | ----- | ----- | ----- |
-  | Imperio | Emperador o Emperatriz | - | Tarkaun |
-  | Reino | Rey o Reina | - | Exarca/Cetranar |
+  | Imperio | Emperador o Emperatriz | Imperio | Tarkaun |
+  | Reino | Rey o Reina | Reino | Exarca/Cetranar |
   | Principado | Príncipe o Princesa | Prefectura | Prefecto o Prefecta |
   | Ducado | Duque o Duquesa | Palatinado | Palatino o Palatina |
   | Condado | Conde o Condesa | Legatura | Legado o Legada |
