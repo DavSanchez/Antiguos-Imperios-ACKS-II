@@ -1,5 +1,4 @@
 public:: true
 
 - Uno de los cargos nobiliarios de [[Khessenta]], de acuerdo al tipo de reino gobernado. Es equivalente a un Rey.
-  
-  Dado que Khessenta es un grupo de ciudades estado sin mayor cohesión, cada una de ellas gobernada por alguien en calidad de Rey, este cargo es el de mayor grado existente ahora mismo en la región.
+- Dado que Khessenta es un grupo de ciudades estado sin mayor cohesión, cada una de ellas gobernada por alguien en calidad de Rey, este cargo es el de mayor grado existente ahora mismo en la región.

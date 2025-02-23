@@ -15,7 +15,7 @@ public:: true
 - [[Astrid, la furia enana]]
 - [[Nari, la danzarina de espadas]]
 - [[Shamash-Nasir, el cruzado]]
-  [[Eryndor, el filo nocturno élfico]]
+- [[Eryndor, el filo nocturno élfico]]
 - ## Personajes No Jugadores
 -
 - # Dominios
