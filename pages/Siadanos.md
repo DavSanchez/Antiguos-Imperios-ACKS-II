@@ -16,4 +16,4 @@
   the Lusaun Forest (#35) are an ongoing threat. The Palatine of
   Siadanos, Theremus Augilian, would welcome the assistance of
   adventurers.
-- Como [[Cyfaraun]], Siadanos es una antigua ciudad élfica abandonada,
+- Como [[Cyfaraun]], Siadanos es una antigua ciudad con trazas de su pasado élfico, Imaskari y de otras
