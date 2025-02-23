@@ -1,1 +1,3 @@
-- Uno de los cargos nobiliarios de [[Khessenta]], de acuerdo al tipo de reino gobernado. Es equivalente a un Rey
+- Uno de los cargos nobiliarios de [[Khessenta]], de acuerdo al tipo de reino gobernado. Es equivalente a un Rey.
+  
+  Dado que
