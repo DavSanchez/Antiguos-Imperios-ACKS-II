@@ -1,3 +1,5 @@
+public:: true
+
 - Orcos
 - Kobolds
 - Trasgos

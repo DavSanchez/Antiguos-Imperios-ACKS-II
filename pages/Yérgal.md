@@ -1,3 +1,5 @@
+public:: true
+
 - **Sobrenombres**: no tiene.
 - **Títulos**: Padre del Pesar, Escriba Final.
 - **Esferas de Influencia**: Ritos funerarios.
