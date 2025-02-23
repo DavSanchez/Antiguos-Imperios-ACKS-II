@@ -1,1 +1,1 @@
-- Imperio
+- || Nombre común | Khessenta ||
