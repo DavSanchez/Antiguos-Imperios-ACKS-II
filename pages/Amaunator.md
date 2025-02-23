@@ -2,4 +2,4 @@
 - **Títulos**: Portador de la Luz, Dador de Leyes, Señor del Amanecer.
 - **Esferas de influencia**: Luz, Ley, Creación.
 - **Símbolos Sagrados**: Sol alado, águila.
-- **Animales sagrados:**
+- **Animales sagrados:** Águila, Grifo.
