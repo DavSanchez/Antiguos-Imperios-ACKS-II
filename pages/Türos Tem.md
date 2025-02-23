@@ -1,4 +1,4 @@
-- Türos Tem es parte de la línea de fortalezas construida hace 150 años por el entonces Cetranar de Címbar Türos Tem is part of the line of forts built 150 years ago by
+- Türos Tem es parte de la línea de fortalezas construida hace 150 años por el entonces Cetranar de Címbar, Audarius Ulkyreus, para proporcionar una defensa ante los invasores [[hombres bestia]] de más allá del [[Muro Oscuro]]. Se asienta sobre un pico rocoso y escarpado Türos Tem is part of the line of forts built 150 years ago by
   Tarkaun Audarius XI Ulkyreus to provide a forward defense
   against beastman invaders from beyond the Dark Wall. It sits
   atop a sheer-walled 150’ tall tor between the Krysivor River and
