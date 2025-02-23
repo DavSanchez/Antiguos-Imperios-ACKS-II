@@ -1,0 +1,5 @@
+- **Sobrenombres**: Naurivus (en [[Khessenta]]).
+- **Títulos**: Patrón de los Exploradores, Señor de los Vientos.
+- **Esferas de Influencia**: Viaje.
+- **Símbolos Sagrados**: Esfera de cristal, torre.
+- **Animales sagrados:** Búho, íbice.
