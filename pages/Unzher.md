@@ -12,3 +12,66 @@
 - Unzher, que en su día fue un gran imperio como su nación hermana de [[Mulhorand]], sufre bajo el gobierno de la cruel manifestación de la deidad Gilgeam. Aún así, Unzher es una tierra de oportunidades, donde la fuerza militar, la diplomacia, el subterfugio y la intriga juegan un papel importante en la supervivencia y el poder.
 - Las gentes de Unzher se dividen en varios grupos étnicos. El más común es el Mulan, que también es la raza de los dioses-reyes de Mulhorand. Este grupo huyó de su civilización original en el Raurin y se asentó alrededor de mar de Alamber. Los Mulan de esta región desplazaron de esta tierra a los hombres bestia (orcos, trasgos), otros humanoides y a los aborígenes humanos, los Turami. Muchos de estos últimos fueron recogidos por Mulhorand, donde fueron responsables de muchos de los grandes logros de esa cultura.
 - Los Mulan de esta región también descienden de dioses, aunque Unzher es gobernado por el dios Gilgeam de forma tiránica, y el resto de deidades ha caído en desgracia.
+- ## El panteón Unzhérico
+  
+  A diferencia de Mulhorand, que aprecia la eternidad y la continuidad inmutable, la religión en Unzher experimentó cambios importantes a lo largo de su historia.
+  
+  El primer gran cambio se produjo cuando muchas de las deidades unzhéricas murieron en las [[Guerras del Portal Orco]] .
+  
+  El propio Enlil se retiró; nombró a su hijo, Gilgeam, como su sucesor como rey de los dioses. Al principio, Gilgeam fue un gobernante justo. Pero a veces hasta los dioses pueden volverse locos.
+  
+  Gilgeam era un rey-dios orgulloso. A medida que pasaron los siglos y la prosperidad e influencia de Unzher disminuyeron, los impuestos aumentaron y el odio del pueblo creció, Gilgeam se convirtió en un señor cruel y celoso.
+  
+  Todas las demás deidades, con excepción de Ishtar y Hadad (que eran demasiado populares para perseguirlas), fueron desterradas. Finalmente se establecieron límites al número de adoradores que Ishtar y Hadad podían tener (y sus templos entregarían la mitad de sus fondos a Gilgeam), y todos los demás Unzherinos se vieron obligados a adorar solo a Gilgeam.
+  
+  Sin embargo, el comercio con los otros Reinos ha importado muchas deidades extranjeras a Unzher, que son adoradas en secreto.
+- ### Gilgeam
+  
+  Maestro de las guerras, padre de la victoria, dios del cielo y las ciudades, gobernante supremo de Unzher, Khessenta, Zhreskel, Khondath, Turmish, Sheír y el Bosque Yuir.
+  
+  **Símbolo**: Un puño rojo respaldado por un sol dorado sobre un fondo negro.
+  
+  Los sacerdotes de Gilgeam deben obedecer a su señor sin cuestionarlo. Deben hacer cumplir su voluntad. Deben matar a sus enemigos. Deben perseguir a todos los que no lo adoren. Deben herir a los enemigos de Unzher.
+  
+  Gilgeam es el líder supremo de los dioses de Unzher (los pocos que quedan) y gobernante de la tierra. Su manifestación vive en Unzhalass y ha salido de la ciudadela muchas veces para golpear a sus enemigos con poder divino. Es un dios conocido por sus celos, crueldad y orgullo; es codicioso de riquezas y grava pesadamente a la gente.
+  
+  El propio Gilgeam es un dios de la destreza física; Si un guerrero de gran fuerza y ​​capacidad de lucha es capturado, Gilgeam le ofrecerá libertad si el guerrero puede derrotarlo en un combate de lucha libre. Entonces Gilgeam lo matará con sus propias manos.
+  
+  Gilgeam no tiene encarnaciones, aunque sólo sea porque una encarnación de Gilgeam podría estar llena del sentido de justicia y honor que él mismo perdió hace mucho tiempo. Gilgeam tampoco tiene herederos, aunque disfruta de la compañía de mujeres (un hijo podría resultar una amenaza para la seguridad de su trono).
+  
+  El culto a Gilgeam es el más poderoso de Unzher, aunque sólo sea porque pocos otros cultos están permitidos. Los ídolos de Gilgeam deben decorar cada esquina y cada hogar, y aquellos que desfiguran su imagen morirán. Gilgeam es un hombre alto, guapo y muy musculoso con cabello y barba largos y dorados. Normalmente viste túnicas reales, pero va a la batalla con su maza y una falda de bronce que cubre la parte inferior del torso y la parte superior de las piernas.
+- ### Ishtar
+  
+  Amante de los Dioses, Guardiana de la Llama, Leona, Reina de la Victoria.
+  
+  **Símbolo**: León. Estrella de nueve puntas.
+  
+  A simple vista, las sacerdotisas de Ishtar están encargadas de ayudar a los agricultores y a la gente común de Unzher para protegerlos del hambre. Es posible que no ataquen directamente las injusticias de Gilgeam, pero sí que intenten suavizar sus efectos. La vertiente bélica de Ishtar fue represaliada por Gilgeam, por lo que los lugares de entrenamiento de sus sacerdotisas guerreras es mantenido en secreto o realizado fuera de las fronteras del país.
+  
+  Ishtar (conocida anteriormente como Inanna) es ahora la diosa del amor y la fertilidad. Ella es la deidad más querida en Unther, pero su sacerdocio tiene poco poder. Ishtar tiene una encarnación en Shussel, que es el sitio de su templo principal. El Templo de la Espada y el Velo, sagrado para Inanna, es en realidad dos órdenes en uno, lo que refleja los aspectos dualistas del amor y la guerra de Inanna. El Templo del Velo emplea sacerdotisas como cortesanas sagradas y consejeras de las grandes familias nobles con la esperanza de aplacar a los ejecutores de la tiranía de Gilgeam. El Templo de la Espada entrena a hojadanzantes en secreto para que sirvan como una fuerza de combate de élite contra la oscuridad.
+  
+  Gilgeam está bastante celoso de Ishtar y su popularidad. El sacerdocio de Ishtar está bastante molesto y está considerando dar apoyo a la creciente rebelión contra él.
+  
+  Ishtar es retratada como una hermosa mujer con cabello dorado y ojos azules. En su manifestación guerrera, fuertemente reprimida por Gilgeam, lucha sobre un carro tirado por siete leones voladores.
+- ### Hadad
+  
+  Señor del Trueno, la Lluvia y las Tormentas.
+  
+  **Símbolo**: Relámpago atravesando una nube tormentosa.
+  
+  Los sacerdotes de Hadad están obligados a ayudar a defender Unzher contra otras naciones (en particular Zhay). Deben proteger a Unzher de los invasores extranjeros y servir al Rey.
+  
+  Hadad o Ramman es una deidad relativamente nueva, introducida en Unzher durante el apogeo del Segundo Imperio. El culto a Hadad complementa el de Ishtar; Ishtar es la deidad de los suelos fértiles, mientras que Hadad es la deidad de los cielos cuyas lluvias ayudan a que los cultivos florezcan. Se considera que Hadad es una deidad poco cariñosa.
+  
+  Hadad es retratado como un hombre de rostro hogareño pero de constitución enorme. Sus encarnaciones son típicamente granjeros y soldados, y es adorado en los Campos Verdes. A menudo existe confusión entre Hadad y Ramatep, el nombre unzhérico de Anhur, pero no son la misma deidad.
+- ### Tiamat
+  
+  Reina del Caos, Némesis de los Dioses
+  
+  **Símbolo**: Dragón de cinco cabezas.
+  
+  Los sacerdotes de Tiamat juran destruir el poder de los reyes-dioses de Uzther, apoderarse del reino, conseguir tanto tesoro como sea posible y sacrificarlo a la Dama Oscura.
+  
+  Tiamat es una deidad de culto, nacida en oposición al dios Gilgeam. Los dioses enseñaron al pueblo que Tiamat era su mayor enemigo, por lo que cuando los dioses se volvieron impopulares, la veneración de su mayor enemigo creció como una protesta. En Unzher, personas de toda ralea pertenecen al culto de Tiamat, incluso personas de buen corazón, porque Gilgeam es un tirano tal que no pueden ver cómo Tiamat podría ser peor.
+  
+  La manifestación física de Tiamat en el mundo material fue destruida hace mucho tiempo por el dios Marduk (que ya no está en los Reinos), pero las incesantes plegarias de sus cruzados hicieron posible el nacimiento de una encarnación. Esta ha dado cierto poder a Unzher debido a la fuerza de su culto. Se dice que puede cambiar de forma a voluntad pero que, por lo general, se hace pasar por la Dama Oscura, una hechicera con cabello largo y oscuro y túnicas oscuras, que vive en los Árboles de Fuego. La otra forma habitual es un dragón de tres cabezas de color rojo, azul y verde.
