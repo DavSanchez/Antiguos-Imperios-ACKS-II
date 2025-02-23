@@ -1,4 +1,6 @@
-## Mapas
+public:: true
+
+- ## Mapas
 - ![Y0nU4TE0D5kFqCtG-unther-and-threskel.png](../assets/Y0nU4TE0D5kFqCtG-unther-and-threskel_1740319278558_0.png)
 - ![vjve1pxiDoMyCInd-unther-and-threskel-location.png](../assets/vjve1pxiDoMyCInd-unther-and-threskel-location_1740319287481_0.png)
 - ## Resumen

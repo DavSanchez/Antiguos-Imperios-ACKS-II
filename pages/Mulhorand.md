@@ -1,4 +1,6 @@
-## Mapas
+public:: true
+
+- ## Mapas
 - ![YGZkPtRe2JxvMZOD-mulhorand.png](../assets/YGZkPtRe2JxvMZOD-mulhorand_1740319413468_0.png)
 - ![ACWLq5UfN8wJR7fD-mulhorand-location.png](../assets/ACWLq5UfN8wJR7fD-mulhorand-location_1740319418411_0.png)
 - ## Resumen
