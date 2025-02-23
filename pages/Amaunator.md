@@ -1,5 +1,5 @@
 - **Sobrenombres**: Ammonator, Ammonar, Lazhánder.
 - **Títulos**: Portador de la Luz, Dador de Leyes, Señor del Amanecer.
-- **Esferas de influencia**: Luz, Ley, Creación.
+- **Esferas de Influencia**: Luz, Ley, Creación.
 - **Símbolos Sagrados**: Sol alado, águila.
 - **Animales sagrados:** Águila, Grifo.
