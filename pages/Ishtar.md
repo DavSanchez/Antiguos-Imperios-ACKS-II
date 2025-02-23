@@ -1,5 +1,5 @@
 - **Sobrenombres**: Inanna, Ianna (los nombres tradicionales en [[Unzher]]).
-- **Títulos**: Dama Noble, Madre Misericordiosa.
-- **Esferas de Influencia**: Comunidad, caridad, civismo.
-- **Símbolos Sagrados**: Estatuilla de alabastro, antorcha.
-- **Animales sagrados:** Cuervo, unicornio.
+- **Títulos**: Leona, Reina de la Victoria.
+- **Esferas de Influencia**: Amor, guerra, victoria.
+- **Símbolos Sagrados**: Estrella de 9 puntas, león.
+- **Animales sagrados:** León, halcón.
