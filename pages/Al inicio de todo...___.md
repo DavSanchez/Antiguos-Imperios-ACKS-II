@@ -7,13 +7,13 @@ public:: true
 - Llevamos el registro aquí: https://app.fantasy-calendar.com/calendars/73430540702b4d13ab55bad7b6a1a138
 - # Personajes
 - [[Argos, el mago]]
--
+- [[Pakao, el explorador]]
 - [[Eos, el gladiador]]
 - [[Phessa, la sacerdotisa]]
 - [[Astra, el guardián de la bóveda]]
 - [[Kobra, la ladrona]]
 - [[Astrid, la furia]]
-- [[]]
+- [[Nari, la danzarina de espadas]]
+- [[Shamash-Nasir, el cruzado]]
 - # Dominios
 - [[Türos Lilium]]
--
