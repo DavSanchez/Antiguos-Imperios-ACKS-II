@@ -2,4 +2,4 @@
 - **Títulos**: Patrón de los Exploradores, Señor de los Vientos.
 - **Esferas de Influencia**: Viajes, clima, aguas navegables.
 - **Símbolos Sagrados**: Galeón, astrolabio.
-- **Animales sagrados:** Búho, íbice.
+- **Animales sagrados**: Delfín, caballo.

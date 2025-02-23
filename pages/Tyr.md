@@ -1,0 +1,5 @@
+- **Sobrenombres**: Türas (en [[Khessenta]]).
+- **Títulos**: Mariscal de la Justicia, Juez del Valor.
+- **Esferas de Influencia**: Viajes, clima, aguas navegables.
+- **Símbolos Sagrados**: Galeón, astrolabio.
+- **Animales sagrados**: Delfín, caballo.
