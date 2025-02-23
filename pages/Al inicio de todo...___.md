@@ -12,9 +12,10 @@ public:: true
 - [[Phessa, la sacerdotisa]]
 - [[Astra, el guardián de la bóveda]]
 - [[Kobra, la ladrona]]
-- [[Astrid, la furia]]
+- [[Astrid, la furia enana]]
 - [[Nari, la danzarina de espadas]]
 - [[Shamash-Nasir, el cruzado]]
+  [[Eryndor, el filo nocturno élfico]]
 - ## Personajes No Jugadores
 -
 - # Dominios
