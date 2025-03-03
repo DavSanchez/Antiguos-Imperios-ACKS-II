@@ -10,12 +10,12 @@ public:: true
 - [[Argos, el mago]]
 - [[Pakao, el explorador]]
 - [[Eos, el gladiador (RIP)]]
-- [[Phessa, la sacerdotisa]]
-- [[Astra, el guardián de la bóveda enano]]
+- [[Phessa, la sacerdotisa de Neftys]]
+- [[Astra, el guardián de la bóveda enano (RIP)]]
 - [[Kobra, la ladrona]]
 - [[Astrid, la furia enana]]
-- [[Nari, la danzarina de espadas]]
-- [[Shamash-Nasir, el cruzado]]
+- [[Nari, la danzarina de espadas de Ishtar]]
+- [[Shamash-Nasir, el cruzado de Amaunator]]
 - [[Eryndor, el filo nocturno élfico]]
 - ## Personajes No Jugadores
 -
