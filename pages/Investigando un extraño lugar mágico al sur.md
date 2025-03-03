@@ -9,5 +9,7 @@
 	  
 	  > *No todos los hombres-bestia fueron engendrados, los salvajes orcos fueron secuestrados también y utilizados como ingrediente en sus abominables cruces.*
 	  
-	  > *Cuando los dioses de Mulhorand y Unzher lograron atravesar la barrera entre los mundos, reunir a su pueblo y destruir a los artífices en su capital de Inupras, mucho del conocimiento de la magia espacio-temporal de Imaskar fue destruido u ocultado por las civilizaciones nacidas de los esclavos rebelados. Los umbrales fueron destruidos o sellados con magia divina.
+	  > *Cuando los dioses de Mulhorand y Unzher lograron atravesar la barrera entre los mundos, reunir a su pueblo y destruir a los artífices en su capital de Inupras, mucho del conocimiento de la magia espacio-temporal de Imaskar fue destruido u ocultado por las civilizaciones nacidas de los esclavos rebelados. Los umbrales fueron destruidos o sellados con magia divina.*
+	  
+	  > *La destrucción del Alto Imáskar fue absoluta, pero el Bajo Imáskar, escindido del primero cuando
 -
