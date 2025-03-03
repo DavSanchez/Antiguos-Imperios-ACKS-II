@@ -1,11 +1,11 @@
 - Oculto entre las páginas del libro *Los Imperios Perdidos de Faerûn*:
 	- > *Bien es sabido, como expone Suetonio en su disertación sobre el **Cisma de Imaskar**, que los arrogantes hechiceros de aquella estirpe se nombraban a sí mismos **artífices**, pues en su temeridad desafiaron a los dioses, pretendiendo usurpar su poder sobre la vida misma.*
 	  
-	  > *Sin embargo, a pesar de haber engendrado numerosas monstruosidades, entre las que se encuentran los [trasgoides]([[Hombres Bestia]]) de hoy día, Suetonius mantiene que la verdadera fuente de poder de los artífices Imaskari era su dominio de la magia espacio-temporal. Era suya la capacidad de abrir umbrales a otros mundos, desde los que secuestraron a civilizaciones enteras trayéndolas a Toril, para que sirvieran como esclavos en sus ciudades imperiales.*
+	  > *No contentos con engendrar abominaciones —entre las cuales se cuentan los [trasgoides]([[Hombres Bestia]]) de nuestros días—, Suetonio sostiene que el verdadero baluarte de los artífices no era la carne moldeada, sino su dominio de la **magia espacio-temporal**. Con ella, **desgarraron los velos entre los mundos** y trajeron civilizaciones enteras desde lejanos firmamentos, para encadenarlas a su yugo de esclavitud.*
 	  
-	  > *No solo tenían la capacidad de unir otros mundos por medio de los umbrales, sino de conectar puntos lejanos del mismo mundo. Es así como pudieron extender su imperio a las dimensiones que alcanzara en su punto de hegemonía absoluta. Grandes extensiones del territorio imperial quedaron conectadas de este modo...*
+	  > *Mas su soberbia no halló límites. **No sólo abrieron umbrales a otras esferas**, sino que tejieron pasajes entre los dominios de Toril, **anudando las vastedades de su imperio con hilos invisibles**. Así, cuando su poder alcanzó la cúspide, hubo regiones donde un hombre podía franquear mil millas en un solo paso, si encontraba la senda oculta...*
 	  
-	  > *Cualquier estructura podía servir como umbral. El único requisito era que pudiera trazarse una curva cerrada y continua en una superficie. Era común utilizar paredes de roca, grabando las combinaciones astrológicas apropiadas alrededor de la línea. Otras veces, era suficiente un arco de adoquines encantados que se sostuviera erguido con ayuda mágica sin ningún otro apoyo, incluso pudiendo flotar en el aire...*
+	  > *La hechicería de Imaskar no requería más fundamento que una superficie donde pudiera __trazarse una curva cerrada y continua__. Fue así que alzaron puertas en muros de piedra, tallando alrededor de la arcana línea __las constelaciones y signos celestes** que regían su activación. Otras veces, bastaba con un arco de adoquines encantados, suspendido en el aire sin sostén visible, por obra de su maestría arcana...*
 	  
 	  > *No todos los hombres-bestia fueron engendrados, los salvajes orcos fueron secuestrados también y utilizados como ingrediente en sus abominables cruces.*
 	  
