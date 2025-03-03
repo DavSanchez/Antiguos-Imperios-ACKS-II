@@ -7,7 +7,7 @@
 	  
 	  > *La hechicería de Imaskar no requería más fundamento que una superficie donde pudiera __trazarse una curva cerrada y continua__. Fue así que alzaron puertas en muros de piedra, tallando alrededor de la arcana línea __las constelaciones y signos celestes__ que regían su activación. Otras veces, bastaba con un arco de adoquines encantados, suspendido en el aire sin sostén visible, por obra de su maestría arcana...*
 	  
-	  > *Y si algunos hombres-bestia fueron modelados por su vil ingenio, otros no fueron engendrados, sino __raptados de tierras lejanas__. Se dice que los __orcos salvajes__ no eran nativos de este mundo, sino traídos como __ingredientes en sus aberrantes cruzas__.*
+	  > *Y si algunos hombres-bestia fueron modelados por su vil ingenio, otros no fueron engendrados, sino __raptados de tierras lejanas__. Se dice que los __orcos salvajes__ no eran nativos de este mundo, sino que fueron traídos como esclavos e __ingredientes de sus aberrantes cruzas__.*
 	  
 	  > *Cuando los dioses de Mulhorand y Unzher lograron atravesar la barrera entre los mundos, reunir a su pueblo y destruir a los artífices en su capital de Inupras, mucho del conocimiento de la magia espacio-temporal de Imaskar fue destruido u ocultado por las civilizaciones nacidas de los esclavos rebelados. Los umbrales fueron destruidos, sellados con magia divina, o se construyeron fortalezas a su alrededor de forma que quedaran custodiados...*
 	  
