@@ -1,2 +1,2 @@
 - Oculto entre las páginas del libro *Los Imperios Perdidos de Faerûn*:
-	- > *Era de sobra conocido por Suetonius, tal y como expone en su disertación sobre el Cisma de Imáskar, que los arrogantes hechiceros Imaskari se llamaban a sí mismos __artífices__ en desafío a los dioses. Prohibiendo*
+	- > *Era de sobra conocido por Suetonius, tal y como expone en su disertación sobre el Cisma de Imáskar, que los arrogantes hechiceros Imaskari se llamaban a sí mismos __artífices__ en desafío a los dioses, pues no estaba fuera de su alcance crear vida.*
