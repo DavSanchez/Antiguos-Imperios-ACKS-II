@@ -1,1 +1,1 @@
-- Oculto entre las páginas del libro Los Imperios Perdidos de Faerûn
+- Oculto entre las páginas del libro *Los Imperios Perdidos de Faerûn*:
