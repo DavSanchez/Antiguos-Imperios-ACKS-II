@@ -1,2 +1,2 @@
 - Oculto entre las páginas del libro *Los Imperios Perdidos de Faerûn*:
-	- > *Otra de las leyendas relatadas por Suetonius, en su exploración de la *
+	- > *Otra de las leyendas relatadas por Suetonius, en su disertación sobre el Cisma de Imáskar, *
