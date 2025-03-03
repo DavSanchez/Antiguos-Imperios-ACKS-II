@@ -3,7 +3,7 @@
 	  
 	  > *Sin embargo, a pesar de haber engendrado numerosas monstruosidades, entre las que se encuentran los [trasgoides]([[Hombres Bestia]]) de hoy día, Suetonius mantiene que la verdadera fuente de poder de los artífices Imaskari era su dominio de la magia espacio-temporal. Era suya la capacidad de abrir umbrales a otros mundos, desde los que secuestraron a civilizaciones enteras trayéndolas a Toril, para que sirvieran como esclavos en sus ciudades imperiales.*
 	  
-	  > *Cualquier estructura podía servir como umbral. 
+	  > *Cualquier estructura podía servir como umbral. El único requisito era que pudiera trazarse una línea continua en una superficie. Era común utilizar paredes de roca, grabando las combinaciones astrológicas alrededor de la línea
 	  
 	  > *No todos los hombres-bestia fueron engendrados, los salvajes orcos fueron secuestrados también y utilizados como ingrediente en sus abominables cruces...*
 	  
