@@ -9,7 +9,7 @@
 	  
 	  > *Y si algunos hombres-bestia fueron modelados por su vil ingenio, otros no fueron engendrados, sino __raptados de tierras lejanas__. Se dice que los __orcos salvajes__ no eran nativos de este mundo, sino que fueron traídos como esclavos e __ingredientes de sus aberrantes cruzas__.*
 	  
-	  > *Cuando los dioses de Mulhorand y Unzher lograron atravesar la barrera entre los mundos, reunir a su pueblo y destruir a los artífices en su capital de Inupras, mucho del conocimiento de la magia espacio-temporal de Imaskar fue destruido u ocultado por las civilizaciones nacidas de los esclavos rebelados. Los umbrales fueron destruidos, sellados con magia divina, o se construyeron fortalezas a su alrededor de forma que quedaran custodiados...*
+	  > *Cuando los dioses de Mulhorand y Unzher __rompieron la barrera entre los mundos__ y acudieron en auxilio de su pueblo, cuando los esclavos se alzaron y llevaron la guerra hasta la dorada Inupras, __la caída de los artífices fue sellada__.  . Mucho del saber arcano de Imaskar pereció entre las ruinas de su capital; lo que no se perdió, fue __ocultado o vedado por la voluntad divina__. __Los umbrales fueron sellados__, su magia atada con cadenas celestiales, o bien fueron encerrados tras muros de piedra y hierro, con guardias vigilantes en torno a ellos...*
 	  
 	  > *La destrucción del Alto Imáskar fue absoluta, pero el Bajo Imáskar, escindido del primero cuando el imperio sufrió las primeras catástrofes y plagas que fueron incapaces de evitar, sobrevivió décadas e incluso siglos. Habiendo sido testigos del poder de los dioses, ellos mismos tornaron a la adoración de poderes oscuros que pudieran enfrentarlos, con el poco conocimiento de su magia aún orientado a traer a tales poderes a la faz de Toril.*
 -
