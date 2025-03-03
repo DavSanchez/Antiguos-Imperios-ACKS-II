@@ -12,9 +12,9 @@
   
   *"Fue hace dos años que Tkhazzar llamó a todas las guarniciones. Tiró de todos los hombres que pudo para ir a la guerra contra esos bastardos de Espina del Aire y Khondath. Se llevó hasta los destacamentos de las fortalezas más alejadas. Por eso estas tierras están como están, sin protección alguna, con bandidos y bestias por doquier."*
   
-  *"¿Y para qué?"* gruñe otro, un hombre con media cara cubierta de cicatrices. *"Para nada. Espina del Aire sigue en pie. Címbar perdió una flota entera por los piratas y los hombres-pez. Se dice que los sahuagins hundieron hasta los barcos encantados por los magos."*
+  *"¿Y para qué?"* gruñe otro, un hombre con media cara cubierta de cicatrices. *"Para nada. Espina del Aire sigue en pie. Címbar perdió una flota entera por los piratas y los hombres-pez. Se dice que los sahuagines hundieron hasta los barcos protegidos por las bendiciones de Valkur."*
   
-  *"Yo escuché que Tchazzar está muerto,"* añade otro, en voz baja. *"Que lo mataron en el norte y que los nobles de Címbar lo ocultan porque temen una guerra civil."*
+  *"Yo escuché que Tkhazzar está muerto,"* añade otro, en voz baja. *"Que lo mataron en el norte y que los nobles de Címbar lo ocultan porque temen una guerra civil y que estos territorios caigan presa de Luthcheq... O de Unzher."*
   
   *"¿Muerto? Ja,"* un hombre más joven se ríe y sacude la cabeza. *"No sólo sigue vivo, sino que algunos ya lo veneran como un dios. Templos en su honor están apareciendo por toda Címbar, y cada día hay más estandartes con dragones rojos. Lo llaman ‘el hijo de los dragones’, ‘el inmortal’. Es un héroe de guerra, ¡pero un dios, eso ya es demasiado!"*
   
