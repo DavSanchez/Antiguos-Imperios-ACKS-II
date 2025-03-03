@@ -1,4 +1,4 @@
-- **Imaskar** es el primer imperio humano dominado, incluso eclipsando a [Netheril](https://es.frwiki.wiki/wiki/N%C3%A9th%C3%A9ril) . Este imperio desaparecido está en el origen de los imperios más antiguos que aún existen en [Féérune](https://es.frwiki.wiki/wiki/F%C3%A9%C3%A9rune)  : [Mulhorand](https://es.frwiki.wiki/wiki/Mulhorande) , [Unther](https://es.frwiki.wiki/wiki/Unther) y [Chessenta](https://es.frwiki.wiki/wiki/Chessenta) .
+- **Imaskar** es el primer imperio humano dominado, incluso eclipsando al fabuloso Nezheril al norte. Este imperio desaparecido es el origen de los imperios más antiguos que aún existen en Faerûn:  [[Mulhorand]] ,  [[Unzher]]  y  [[Khessenta]].
 - ## Resumen
 - [1 General](https://es.frwiki.wiki/wiki/Imaskar#G%C3%A9n%C3%A9ralit%C3%A9s)
 - [2 la caída](https://es.frwiki.wiki/wiki/Imaskar#La_chute)
