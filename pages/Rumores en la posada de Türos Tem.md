@@ -16,6 +16,6 @@
   
   *"Yo escuché que Tkhazzar está muerto,"* añade otro, en voz baja. *"Que lo mataron en el norte y que los nobles de Címbar lo ocultan porque temen una guerra civil y que estos territorios caigan presa de Luthcheq... O de Unzher."*
   
-  *"¿Muerto? Ja,"* un hombre más joven se ríe y sacude la cabeza. *"No sólo sigue vivo, sino que algunos ya lo veneran como un dios. Templos en su honor están apareciendo por toda Címbar, y cada día hay más estandartes con dragones rojos. Lo llaman ‘el hijo de los dragones’, ‘el inmortal’. Es un héroe de guerra, ¡pero un dios, eso ya es demasiado!"*
+  *"¿Muerto? Ja,"* un hombre más joven se ríe y sacude la cabeza. *"No sólo sigue vivo, sino que algunos ya lo veneran como un dios. Templos en su honor están apareciendo por Címbar, y cada día hay más estandartes con su iconografía de dragones rojos. Lo llaman ‘el dragón rojo’, ‘el inmortal’. Es un héroe de guerra, ¡pero un dios, eso ya es demasiado!"*
   
-  *"El clero de Amaunator en Címbar no está contento con esto,"* murmura otro mercenario. *"Amaunator es la ley, el orden. Y esto de Tchazzar, si es o no un dios, es peligroso. Pero díselo al pueblo… están locos con la idea de que su héroe sea divino."*
+  *"El clero de Amaunator en Címbar no está contento con eso,"* murmura otro mercenario. *"Amaunator es la ley, el orden. Y esto de Tkhazzar, si es o no un dios, es peligroso. Pero díselo al pueblo… están locos con la idea de que su héroe sea divino."*
