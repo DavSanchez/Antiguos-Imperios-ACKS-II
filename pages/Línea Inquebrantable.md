@@ -1,1 +1,1 @@
-- La línea de fortalezas que delimita el terreno Khessentano reclamado por Címbar.
+- La línea de fortalezas que delimita el terreno Khessentano reclamado por Címbar. Más al sur el territorio es inhóspito, y al este se hallan los abandonados límites
