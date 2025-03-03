@@ -9,7 +9,7 @@ public:: true
 	  
 	  La discusión se vuelve acalorada, con apuestas y exageraciones cada vez mayores.
 - **La guerra en el noroeste**
-	- Un grupo de soldados y mercenarios de descanso comparte una jarra de cerveza negra en un rincón de la taberna.
+	- Un grupo de soldados y mercenarios de descanso comparte una jarra de cerveza negra en un rincón de la posada.
 	  
 	  *"Fue hace dos años que [[Tkhazzar]] llamó a todas las guarniciones. Tiró de todos los hombres que pudo para ir a la guerra contra esos bastardos de Espina del Aire y Khondath. Se llevó hasta los destacamentos de las fortalezas más alejadas. Por eso estas tierras están como están, sin protección alguna, con bandidos y bestias por doquier."*
 	  
