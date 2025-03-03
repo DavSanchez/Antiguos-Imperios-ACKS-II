@@ -1,7 +1,7 @@
 public:: true
 
 - Oculto entre las páginas del libro *Los Imperios Perdidos de Faerûn*:
-	- > *Bien es sabido, como expone Suetonio en su disertación sobre el __Cisma de Imáskar__, que los arrogantes hechiceros de aquella estirpe se nombraban a sí mismos __artífices__, pues en su temeridad desafiaron a los dioses, pretendiendo usurpar su poder sobre la vida misma.*
+	- > *Bien es sabido, como expone Suetonio en su disertación sobre el __Cisma de [[Imáskar]] __, que los arrogantes hechiceros de aquella estirpe se nombraban a sí mismos __artífices__, pues en su temeridad desafiaron a los dioses, pretendiendo usurpar su poder sobre la vida misma.*
 	  
 	  > *No contentos con engendrar abominaciones —entre las cuales se cuentan los [trasgoides]([[Hombres Bestia]]) de nuestros días—, Suetonio sostiene que el verdadero baluarte de los artífices no era la carne moldeada, sino su dominio de la __magia espacio-temporal__. Con ella, __desgarraron los velos entre los mundos__ y trajeron civilizaciones enteras desde lejanos firmamentos, para encadenarlas a su yugo de esclavitud.*
 	  
