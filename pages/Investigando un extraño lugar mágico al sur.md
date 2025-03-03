@@ -1,2 +1,2 @@
 - Oculto entre las páginas del libro *Los Imperios Perdidos de Faerûn*:
-	- > *Otra de las leyendas relatadas por Suetonius, en su disertación sobre el Cisma de Imáskar, *
+	- > *Era de sobra conocido por Suetonius, tal y como expone en su disertación sobre el Cisma de Imáskar, que los arrogantes hechiceros Imaskari se llamaban a sí mismos artífices*
