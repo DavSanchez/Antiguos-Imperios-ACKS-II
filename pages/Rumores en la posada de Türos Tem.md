@@ -1,3 +1,5 @@
+public:: true
+
 - **Orm, el Dragón de Fuego**
 	- *Te juro por Valkur que es verdad, lo oí de un viejo monje que pasó por aquí hace años,"* dice un marinero con la nariz colorada de tanto vino especiado. *"En los picos de las Montañas Meniri hay un volcán donde el fuego quema más que en propio plano elemental del fuego. ¡Ahí nació Orm, el gran dragón! Y sólo en ese fuego puede ser destruido. No hay acero ni magia en este mundo que pueda matarlo fuera de ese infierno de llamas."*
 	  
@@ -5,11 +7,11 @@
 	  
 	  *"¿Viejas dices?"* interrumpe un tercer hombre, con la túnica de la cofradía de mercaderes de Siadanos. *"¡No! Yo escuché a un sacerdote del antiguo Templo de Kossut en Luthcheq decir lo mismo, ¡y de fuego ellos saben más que nadie...!"*
 	  
-	  La discusión se vuelve acalorada, con apuestas lanzadas y exageraciones cada vez mayores.
+	  La discusión se vuelve acalorada, con apuestas y exageraciones cada vez mayores.
 - **La guerra en el noroeste**
 	- Un grupo de soldados y mercenarios de descanso comparte una jarra de cerveza negra en un rincón de la taberna.
 	  
-	  *"Fue hace dos años que Tkhazzar llamó a todas las guarniciones. Tiró de todos los hombres que pudo para ir a la guerra contra esos bastardos de Espina del Aire y Khondath. Se llevó hasta los destacamentos de las fortalezas más alejadas. Por eso estas tierras están como están, sin protección alguna, con bandidos y bestias por doquier."*
+	  *"Fue hace dos años que [[Tkhazzar]] llamó a todas las guarniciones. Tiró de todos los hombres que pudo para ir a la guerra contra esos bastardos de Espina del Aire y Khondath. Se llevó hasta los destacamentos de las fortalezas más alejadas. Por eso estas tierras están como están, sin protección alguna, con bandidos y bestias por doquier."*
 	  
 	  *"¿Y para qué?"* gruñe otro, un hombre con media cara cubierta de cicatrices. *"Para nada. Espina del Aire sigue en pie. Címbar perdió una flota entera por los piratas y los hombres-pez. Se dice que los sahuagines hundieron hasta los barcos protegidos por las bendiciones de Valkur."*
 	  
