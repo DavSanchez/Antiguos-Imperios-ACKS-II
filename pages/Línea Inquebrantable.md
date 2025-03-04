@@ -1,2 +1,1 @@
 - La línea de fortalezas que delimita el terreno Khessentano reclamado por Címbar. A la que pertenece [[Türos Tem]]. Más al sur el territorio es inhóspito, y al este se hallan los abandonados límites fronterizos con Unzher.
--
