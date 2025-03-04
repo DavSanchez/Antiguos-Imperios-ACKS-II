@@ -1,0 +1,1 @@
+- Un soldado de unos 45 años, vástago de una rama menor de la gran casa Valerius de Címbar.
