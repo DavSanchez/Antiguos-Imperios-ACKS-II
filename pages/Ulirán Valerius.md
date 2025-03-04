@@ -1,2 +1,3 @@
 - Un soldado de unos 45 años, vástago de una rama menor de la gran casa Valerius de Címbar. Alcanzando los dos metros de estatura, ojos verdes brumosos, nariz aguileña y pelo cano peinado sobre su orgullosa frente.
-- Desde que las legiones de las [[Tierras Fronterizas]] fuer
+-
+- Desde que las legiones de las [[Tierras Fronterizas]] fueron llamadas lejos hace dos años, Valerius carece de la fuerza para proteger realmente su legatura.
