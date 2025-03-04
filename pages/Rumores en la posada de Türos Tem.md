@@ -1,7 +1,7 @@
 public:: true
 
 - **Orm, el Dragón de Fuego**
-	- *Te juro por Valkur que es verdad, lo oí de un viejo monje que pasó por aquí hace años,"* dice un marinero con la nariz colorada de tanto vino especiado. *"En los picos de las Montañas Meniri hay un volcán donde el fuego quema más que en propio plano elemental del fuego. ¡Ahí nació Orm, el gran dragón! Y sólo en ese fuego puede ser destruido. No hay acero ni magia en este mundo que pueda matarlo fuera de ese infierno de llamas."*
+	- *Por Istreus que es verdad, lo oí de un viejo monje que pasó por aquí hace años,"* dice un hombre con la nariz colorada de tanto vino especiado. *"En los picos de las Montañas Meniri hay un volcán donde el fuego quema más que en propio plano elemental del fuego. ¡Ahí nació Orm, el gran dragón! Y sólo en ese fuego puede ser destruido. No hay acero ni magia en este mundo que pueda matarlo fuera de ese infierno de llamas."*
 	  
 	  *"¡Ja! Si existiera ese dragón ya habría arrasado esta región hace siglos,"* resopla un parroquiano canoso, apoyando su jarra en la mesa con un golpe. *"Bah, cuentos de viejas para asustar a los críos."*
 	  
