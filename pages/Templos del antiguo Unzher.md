@@ -1,3 +1,5 @@
+public:: true
+
 - Fragmento copiado del *Archivo Eterno de la Ciudadela de la Ceniza Negra*, escrito en idioma Unzhérico por la escriba Enheduanna de Naram-Sin:
 	- > *"En tiempos del Reino Eterno alzado sobre la faz de la tierra, cuando Imáskar fue caída, los enanos pusieron pie en lo que hoy es la planicie de la Ceniza Negra. Guiados por la codicia, cavaron en la piedra y hollaron con sus manos el vientre del mundo, buscando metales y gemas que no les pertenecían. Pero su osadía despertó a Vulpomyscan, el escamado.*
 	  >
