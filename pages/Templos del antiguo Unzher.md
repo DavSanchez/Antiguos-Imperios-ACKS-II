@@ -10,4 +10,4 @@
 	  > *En su infinita prudencia, el Rey de Reyes comprendió que los perversos aún acechaban en las sombras, y que los enemigos de Unzher jamás dejarían de urdir sus mentiras. Y para que la Verdad no fuese corrompida, ordenó que los cultos caídos, que habían huido de la luz de Unzhalass para refugiarse entre las arenas negras, fueran barridos esta vez de la faz de la tierra. La luz de Gilgeam no debía mancillarse con la putrefacción de los dioses indignos.*
 	  >
 	  > *Así fue y así será. Por su voluntad, el mundo ha sido purificado, y el Reino Eterno de Unzher brilla imperecedero sobre las cenizas de los caídos.*"
-- La Ciudadela de la Ceniza Negra es un lugar relativamente conocido en Unzher. Efectivamente es una gran biblioteca, cercana a la ciudad de Gisurra (que en Unzhérico significa *árboles de fuego*).
+- La Ciudadela de la Ceniza Negra es un lugar relativamente conocido en Unzher. Efectivamente es una gran biblioteca, cercana a la ciudad de [[Gisurra]] (que en Unzhérico significa *árboles de fuego*).
