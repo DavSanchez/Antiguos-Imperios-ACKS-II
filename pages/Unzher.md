@@ -37,7 +37,7 @@ public:: true
   
   Gilgeam es el líder supremo de los dioses de Unzher (los pocos que quedan) y gobernante de la tierra. Su manifestación vive en Unzhalass y ha salido de la ciudadela muchas veces para golpear a sus enemigos con poder divino. Es un dios conocido por sus celos, crueldad y orgullo; es codicioso de riquezas y grava pesadamente a la gente.
   
-  El propio Gilgeam es un dios de la destreza física; Si un guerrero de gran fuerza y ​​capacidad de lucha es capturado, Gilgeam le ofrecerá libertad si el guerrero puede derrotarlo en un combate de lucha libre. Entonces Gilgeam lo matará con sus propias manos.
+  El propio Gilgeam es un dios de la destreza física; Si un guerrero de gran fuerza y ​​capacidad de lucha es capturado, Gilgeam le ofrecerá libertad si el guerrero puede derrotarlo en un combate de lucha libre. Entonces Gilgeam lo matá con sus propias manos.
   
   Gilgeam no tiene encarnaciones, aunque sólo sea porque una encarnación de Gilgeam podría estar llena del sentido de justicia y honor que él mismo perdió hace mucho tiempo. Gilgeam tampoco tiene herederos, aunque disfruta de la compañía de mujeres (un hijo podría resultar una amenaza para la seguridad de su trono).
   
