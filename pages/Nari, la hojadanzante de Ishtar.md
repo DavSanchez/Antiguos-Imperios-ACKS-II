@@ -6,6 +6,6 @@ public:: true
 - [[Zia]], hojadanzante de Ishtar khessentana.
 - [[Ralmevik]], berserker rashemí.
 - ## Mercenarios a su servicio
-- 28 berserkers rashemíes (infantería pesada, bárbaros nv. 1)
-- 8 líderes berserker rashemíes (infantería pesada, bárbaros nv. 2)
+- 28 berserkers rashemíes (infantería pesada veterana, bárbaros nv. 1)
+- 8 líderes berserker rashemíes (infantería pesada veterana, bárbaros nv. 2)
 - 10 peregrinas de Ishtar (milicianas con lanzas, nv. 0)
