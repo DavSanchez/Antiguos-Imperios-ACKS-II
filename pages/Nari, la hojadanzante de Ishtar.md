@@ -8,4 +8,4 @@ public:: true
 - ## Mercenarios a su servicio
 - 28 berserkers rashemíes (infantería pesada, bárbaros nv. 1)
 - 8 líderes berserker rashemíes (infantería pesada, bárbaros nv. 2)
-- 10 peregrinas de Ishtar ()
+- 10 peregrinas de Ishtar (milicianas con lanzas, nv. 0)
