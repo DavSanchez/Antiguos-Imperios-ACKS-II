@@ -1,1 +1,3 @@
-- También conocida como la tierra de los berserkers, es un matriarcado místico ubicado al noreste de Faerûn. Es una tierra escarpada y enigmática
+- También conocida como la tierra de los berserkers, es un matriarcado místico ubicado al noreste de Faerûn. Es una tierra escarpada y enigmática que muchos considerarían inhabitable. Los nativos, los rashemíes, son gentes feroces e individualistas que son conocidos en los Reinos por su gran valentía y su sobrecogedor poder en las artes mágicas.
+-
+-
