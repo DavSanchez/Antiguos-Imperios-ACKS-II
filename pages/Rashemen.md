@@ -1,0 +1,1 @@
+- También conocida como la tierra de los berserkers, es una ginarquía
