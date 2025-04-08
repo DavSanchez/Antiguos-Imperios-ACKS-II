@@ -1,1 +1,1 @@
-- También conocida como la tierra de los berserkers, es un matriarcado magocrático
+- También conocida como la tierra de los berserkers, es un matriarcado místico ubicado al noreste de Faerûn. Es una tierra escarpada y enigmática
