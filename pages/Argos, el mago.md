@@ -5,5 +5,7 @@ public:: true
 - ## Secuaces a su servicio
 - [[Polux]], capitán mercenario.
 - [[Arcadius]] Capitán de la guardia de [[Türos Lilium]].
--
+- [[Thorwell]], guerrero.
+- [[Thorcigar]], explorador.
 - ## Mercenarios a su servicio
+-
