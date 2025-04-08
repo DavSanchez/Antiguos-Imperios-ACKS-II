@@ -1,4 +1,7 @@
 public:: true
 
-- ![WhatsApp Image 2025-02-23 at 16.25.27.jpeg](../assets/WhatsApp_Image_2025-02-23_at_16.25.27_1740340945380_0.jpeg)
+- ![WhatsApp Image 2025-02-23 at 16.25.27.jpeg](../assets/WhatsApp_Image_2025-02-23_at_16.25.27_1740340945380_0.jpeg){:height 963, :width 536}
 - **All images are the property of their respective owners**.
+- ## Secuaces a su servicio
+- [[Zia]], hojadanzante de Ishtar
+- ## Mercenarios a su servicio
