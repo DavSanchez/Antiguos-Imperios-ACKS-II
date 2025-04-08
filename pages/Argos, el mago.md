@@ -8,4 +8,5 @@ public:: true
 - [[Thorwell]], guerrero.
 - [[Thorcigar]], explorador.
 - ## Mercenarios a su servicio
--
+- 32 infantería ligera, destinados en [[Türos Lilium]]
+- 24 arqueros, destinados en [[Türos Lilium]]
