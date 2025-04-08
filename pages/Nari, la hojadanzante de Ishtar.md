@@ -6,4 +6,4 @@ public:: true
 - [[Zia]], hojadanzante de Ishtar khessentana.
 - [[Ralmevik]], berserker rashemí.
 - ## Mercenarios a su servicio
-- 28
+- 28 berserkers rashemíes
