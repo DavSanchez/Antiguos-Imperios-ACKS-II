@@ -7,4 +7,4 @@ public:: true
 - [[Ralmevik]], berserker rashemí.
 - ## Mercenarios a su servicio
 - 28 berserkers rashemíes (infantería pesada, bárbaros nv. 1)
-- 8 líderes berse
+- 8 líderes berserker rashemíes
