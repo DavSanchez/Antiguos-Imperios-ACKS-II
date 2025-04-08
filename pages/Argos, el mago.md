@@ -6,5 +6,3 @@ public:: true
 - [[Polux]], capitán mercenario.
 - [[Arcadius]] Capitán de la guardia de [[Türos Lilium]].
 - ## Mercenarios a su servicio
-- 32 infantería ligera, destinados en [[Türos Lilium]]
-- 24 arqueros, destinados en [[Türos Lilium]]

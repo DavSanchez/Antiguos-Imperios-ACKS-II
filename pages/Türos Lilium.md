@@ -6,3 +6,6 @@ public:: true
 - [[Arcadius]], capitán de la guardia.
 - [[Solutor]].
 - [[Ummash]], explorador.
+- ## Guarnición
+- 32 infantería ligera.
+- 24 arqueros.
