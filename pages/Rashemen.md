@@ -1,1 +1,1 @@
-- También conocida como la tierra de los berserkers, es una ginarquía
+- También conocida como la tierra de los berserkers, es un matriarcado magocrático
