@@ -10,3 +10,5 @@ public:: true
 - ## Guarnición
 - 32 infantería ligera.
 - 24 arqueros.
+- ## Historia
+- [[La batalla de Türos Lilium]]
