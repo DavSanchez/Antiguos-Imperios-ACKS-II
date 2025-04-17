@@ -7,6 +7,5 @@ public:: true
 - ![ChatGPT Image 16 abr 2025, 15_05_32.png](../assets/ChatGPT_Image_16_abr_2025,_15_05_32_1744812648686_0.png)
 - ![Mujer alada sobre la fortaleza.png](../assets/Mujer_alada_sobre_la_fortaleza_1744812949307_0.png)
 - ![2025-04-17-03-22-03.jpeg](../assets/2025-04-17-03-22-03.jpeg){:height 1175, :width 778}
-- ![Guerrera celestial al amanecer.png](../assets/Guerrera_celestial_al_amanecer_1744890077609_0.png)
 - ![Mujer alada sobre batalla matutina.png](../assets/Mujer_alada_sobre_batalla_matutina_1744812661652_0.png)
 -
