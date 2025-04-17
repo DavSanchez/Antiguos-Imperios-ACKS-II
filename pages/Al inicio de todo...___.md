@@ -18,6 +18,8 @@ public:: true
 - [[Shamash-Nasir, el cruzado de Amaunator]]
 - [[Eryndor, el filo nocturno élfico]]
 - ## Personajes No Jugadores
+- [[Ulirán Valerius]]
+- [[Nicus Balens]]
 -
 - # Dominios
 - [[Türos Lilium]]
