@@ -20,6 +20,6 @@ public:: true
 - ## Personajes No Jugadores
 - [[Ulirán Valerius]]
 - [[Nicus Balens]]
--
+- [[Süromus Drakon]]
 - # Dominios
 - [[Türos Lilium]]
