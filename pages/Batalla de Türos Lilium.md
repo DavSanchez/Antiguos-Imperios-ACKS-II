@@ -4,7 +4,7 @@ public:: true
 - La Compañía Purpura contaba con un reducido grupo consistente en los aventureros originales que recuperaron la Piedra de Sakkara, un grupo de elfos procedentes de un enclave al sur y un grupo de peregrinas que se unió a [[Nari, la hojadanzante de Ishtar]], a cambio de buscar el templo perdido de Ishtar de donde los osgos habían sacado las armas.
 - La Compañía Púrpura perdió a 4 de cada 5 personas participantes en la conquista en un primer asalto, aunque en él pudieron matar a los líderes osgos. Tras ello, tuvieron que retirarse y reagruparse para atacar de nuevo, conquistar la fortaleza y rescatar a los supervivientes que hubiese. Lamentablemente, solo [[Shamash-Nasir, el cruzado de Amaunator]] pudo ser rescatado.
 - # Galería
-- ## [Phessa]([[Phessa, la sacerdotisa]]) ordena mágicamente a un oso y su jinete precipitarse hacia un foso ardiente durante una emboscada en el bosque al sur
+- ## [Phessa]([[Phessa, la sacerdotisa de Neftys]]) ordena mágicamente a un oso y su jinete precipitarse hacia un foso ardiente durante una emboscada en el bosque al sur
 - ![2025-04-17-15-14-53.jpeg](../assets/2025-04-17-15-14-53.jpeg)
 - ![2025-04-17-15-15-03.jpeg](../assets/2025-04-17-15-15-03.jpeg)
 - ## Sacrificio de [Astra]([[Astra, el guardián de la bóveda enano (RIP)]]) y [Shamash]([[Shamash-Nasir, el cruzado de Amaunator]]) en la primera batalla a las puertas de la fortaleza
