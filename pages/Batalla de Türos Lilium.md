@@ -4,7 +4,7 @@ public:: true
 - La Compañía Purpura contaba con un reducido grupo consistente en los aventureros originales del grupo, un grupo de elfos procedentes de un enclave al sur y un grupo de peregrinas que se unió a [[Nari, la hojadanzante de Ishtar]] a cambio de buscar el templo perdido de Ishtar de donde los osgos habían sacado las armas.
 - La Compañía Púrpura perdió a 4 de cada 5 personas participantes en la conquista en un primer asalto aunque pudieron matar a los líderes osgos. Tras ello, tuvieron que retirarse y reagruparse para atacar de nuevo, conquistar la fortaleza y rescatar a los supervivientes que hubiese.
   
-  ##
+  ## Emboscada de tropas de osgos en el bosque al sur
 - ## Sacrificio de [Astra]([[Astra, el guardián de la bóveda enano (RIP)]]) y [Shamash]([[Shamash-Nasir, el cruzado de Amaunator]]) en la primera batalla
 - ![ChatGPT Image 16 abr 2025, 14_56_05.png](../assets/ChatGPT_Image_16_abr_2025,_14_56_05_1744812473059_0.png)
 - ## [Nari]([[Nari, la hojadanzante de Ishtar]]) cayendo sobre los osgos en venganza al siguiente día
