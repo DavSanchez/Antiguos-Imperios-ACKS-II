@@ -1,6 +1,6 @@
 public:: true
 
-- La batalla de [[Türos Lilium]] es como se conoce a las contiendas de la [[Compañía Púrpura]] mediante las que se conquistó una antigua fortaleza imperial que había sido tomada por una tribu de osgos. Los osgos contaban con numerosas tropas, alrededor de 300 incluyendo osos cavernarios, así como armas mágicas producto de su saqueo de un templo de [[Ishtar]] en algún lugar al este.
+- La batalla de [[Türos Lilium]] es como se conoce a las contiendas de la [[Compañía Púrpura]] mediante las que la [[Compañía Púrpura]] conquistó una antigua fortaleza imperial que había sido tomada por una tribu de osgos. Los osgos contaban con numerosas tropas, alrededor de 300 incluyendo osos cavernarios, así como armas mágicas producto de su saqueo de un templo de [[Ishtar]] en algún lugar al este.
 - La Compañía Purpura contaba con un reducido grupo consistente en los aventureros originales que recuperaron la Piedra de Sakkara, un grupo de elfos procedentes de un enclave al sur y un grupo de peregrinas que se unió a [[Nari, la hojadanzante de Ishtar]], a cambio de buscar el templo perdido de Ishtar de donde los osgos habían sacado las armas.
 - La Compañía Púrpura perdió a 4 de cada 5 personas participantes en la conquista en un primer asalto, aunque en él pudieron matar a los líderes osgos. Tras ello, tuvieron que retirarse y reagruparse para atacar de nuevo, conquistar la fortaleza y rescatar a los supervivientes que hubiese. Lamentablemente, solo [[Shamash-Nasir, el cruzado de Amaunator]] pudo ser rescatado.
 - # Galería
