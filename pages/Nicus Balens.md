@@ -1,0 +1,3 @@
+- ![ChatGPT Image 18 abr 2025, 20_08_17.png](../assets/ChatGPT_Image_18_abr_2025,_20_08_17_1745003985605_0.png)
+- Nicus Balens con su esposa Liana Liusala.
+- []
