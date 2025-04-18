@@ -7,6 +7,7 @@ public:: true
 - ## [Phessa]([[Phessa, la sacerdotisa de Neftys]]) ordena mágicamente a un oso y su jinete precipitarse hacia un foso ardiente durante una emboscada en el bosque al sur
 - ![2025-04-17-15-14-53.jpeg](../assets/2025-04-17-15-14-53.jpeg)
 - ![2025-04-17-15-15-03.jpeg](../assets/2025-04-17-15-15-03.jpeg)
+- ![ChatGPT Image 18 abr 2025, 04_15_52.png](../assets/ChatGPT_Image_18_abr_2025,_04_15_52_1744946200150_0.png)
 - ## Sacrificio de [Astra]([[Astra, el guardián de la bóveda enano (RIP)]]) y [Shamash]([[Shamash-Nasir, el cruzado de Amaunator]]) en la primera batalla a las puertas de la fortaleza
 - ![ChatGPT Image 16 abr 2025, 14_56_05.png](../assets/ChatGPT_Image_16_abr_2025,_14_56_05_1744812473059_0.png)
 - ![2025-04-17-15-17-29.jpeg](../assets/2025-04-17-15-17-29.jpeg)
