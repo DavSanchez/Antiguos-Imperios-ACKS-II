@@ -21,8 +21,8 @@
 - -135 DR: Founding of Bezantur. Other cities soon built on the coastal areas of the Wizard's Reach as Mulhorand and Unther once again expand northward.
 - 1 CV: Fundación de Cormyr. Este añi es el 2134 en el calendario de Mulhorand.
 - 108 CV: La Primera Gran Inundación del Río Alamber casi destruye Unzhalass.
-- 202 CV: Tribes of "barbarians" from the south invade southern Unther and Mulhorand.
-- 205 CV: Mulhorand y Unther chase defeated barbarians back to their base settlement and exterminate them. A dying shaman prophecies that their empires shall soon crumble.
+- 202 CV: Tribus de "bárbaros" from the south invade southern Unther and Mulhorand.
+- 205 CV: Mulhorand y Unther persiguen a los bárbaros derrotados de vuelta a su asentamiento y los exterminan. Un chamán moribundo profetiza que sus imperios pronto se derrumbarán.
 - 482 CV: Delthuntle y Laothkund se liberan de Unzher.
 - 504 CV: Teth y Nethra dclaran su independencia. Unzher comienza una larga campaña contra las Ciudades de la Costa Norte.
 - 643 CV: El mago Nezram abandona su torre en las costas de Azulduth.
