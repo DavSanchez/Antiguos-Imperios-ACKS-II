@@ -29,7 +29,7 @@ public:: true
 - 504 CV: Teth y Nethra dclaran su independencia. Unzher comienza una larga campaña contra las Ciudades de la Costa Norte.
 - 643 CV: El mago Nezram abandona su torre en las costas de Azulduth.
 - 679 CV: Unzher es forzada a reconocer la independencia de las Ciudades de la Costa Norte. Unzher nunca se recupera de esta larga, costosa y sangrienta campaña. Fin del Segundo Imperio Unzhérico.
-- 681 CV: La torre de Nezram es destruida por el dragón verde. Los hijos de Nezram se dispersan o son asesinados.
+- 681 CV: La torre de Nezram es destruida por un dragón verde. Los hijos de Nezram se dispersan o son asesinados.
 - 731 CV: La Segunda Gran Inundación del Río Alamber devasta Unzhalass.
 - 823 CV: Mourktar se libera de Unther.
 - 909 CV: La Alianza de Khessenta expulsa a Unzher al otro lado de las Montañas Jinetes del Cielo.
