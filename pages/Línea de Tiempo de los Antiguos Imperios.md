@@ -35,5 +35,5 @@
 - 976 DR: Mulhorand invasion of Thay defeated at the River Thazarim.
 - 979 DR: Mordulkin defies the king of Cimbar, beginning the break-up of Chessenta into squabbling city-states.
 - 1018 DR: Tchazzar lidera una campaña naval contra piratas procedentes del Mar de Alamber, apoyado por los ejércitos de todos los dominios de Címbar y sus aliados de Aerospina.
-- 1019 CV: Las ciudades de Akanax y Suurenar aumentan su oposición a Címbar. Lutcheq pasa a ser gobernada por la familia Karanok
+- 1019 CV: Las ciudades de Akanax y Suurenar aumentan su oposición a Címbar. Lutcheq invades Mordulkin but loses the war; losses ar e b l a m ed o n wizard-spies in the service of Mordulkin. Luthcheq begins persecution of wizards.
 - **1020 CV: Comienzo de la campaña.**
