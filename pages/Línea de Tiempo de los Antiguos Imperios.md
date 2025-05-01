@@ -10,10 +10,14 @@
 - -1076 DR: Orcgate opens.
 - -1075 DR: First battle of the Orcgate Wars. Orcs overrun many northern settlements, slaying thousands.
 - -1071 DR: Battle of the Gods. Re is slain by the orc-deity Gruumsh.
-- -1069 DR
-  -1050 DR
-  -1048 DR
-  -900 DR
+- -1069 DR: Orc pantheon defeated.
+- -1050 DR: Orcs driven from the south.
+- -1048 DR: Power struggle between Osiris and Set to succeed Re. Set murders Osiris.
+- -900 DR: Osiris resurrected by Isis. Horus-Re battles Set, casts him into the desert and be-
+  comes chief of the Mulho-
+  rand pantheon. Set worship
+  is abolished. The tower of
+  Set in Skuld is destroyed.
   -734 DR
   -623 DR
   -150 DR
@@ -23,18 +27,9 @@
   
   
   
-  Orc pantheon defeated.
-  Orcs driven from the south.
-  Power struggle between
-  Osiris and Set to succeed Re.
-  Set murders Osiris.
-  Osiris resurrected by Isis.
-  Horus-Re battles Set, casts
-  him into the desert and be-
-  comes chief of the Mulho-
-  rand pantheon. Set worship
-  is abolished. The tower of
-  Set in Skuld is destroyed.
+  
+  
+  
   Rise of Narfell and
   Raumathar.
   Enlil decides to leave the
