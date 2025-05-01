@@ -6,7 +6,7 @@
 - -1500 CV: Expansión de Unzher y Mulhorand.
 - -1250 CV: Unzher batalla contra los elfos del Bosque Yuir y los enanos de la Gran Brecha. Mulhorand, mayormente, los ignora.
 - -1087 CV: El Adepto Teúrgo Zhayd se rebela, junto a la mayoría de los magos de Unzher y Mulhorand.
-- -1081 CV: Zhayd y sus conspiradores derrotados. Zhayd es ejecutado, pero profetiza que Mulhorand y Unzher nunca serán igual de grandes de nuevo.
+- -1081 CV: Zhayd y sus conspiradores son derrotados. Zhayd es ejecutado, pero profetiza que Mulhorand y Unzher nunca serán igual de grandes de nuevo.
 - -1076 CV: Se abre el Umbral Orco.
 - -1075 CV: Primera batalla de las Guerras del Umbral Orco. Los Orcos arrasan muchos asentamientos norteños, matando a miles.
 - -1071 CV: Batalla de los Dioses. Ra es asesinado por la deidad orca Gruumsh.
@@ -36,4 +36,4 @@
 - 979 CV: Mordulkin desafía al rey de Címbar, comenzando la ruptura de Khesenta en ciudad-estado enfrentadas.
 - 997 CV: Tchazzar, rey de Címbar, lidera una campaña naval contra piratas procedentes del Mar de Alamber, apoyado por los ejércitos de todos los dominios de Címbar hasta las tierras fronterizas y sus aliados de la ciudad de Aerospina.
 - 998 CV: Las ciudades de Akanax y Suurenar aumentan sus ejércitos. Lutcheq invade Mordulkin pero pierde la guerra; las pérdidas se atribuyen a magos-espía al servicio de Mordulkin. Lutcheq comienza su persecución de magos.
-- **999 CV: Surgen rumores de que las fuerzas de Címbar y Aerospina han sido rodeadas y destruidas por los piratas asistidos por un enemigo procedente del fondo del mar. Los viajes se hacen peligrosos a medida que las estructuras de poder de la propia Címbar, siguiendo a las de Khessenta, se descentralizan en ciudades-estado, señores de la guerra locales y ejércitos privados. Comienzo de la campaña.**
+- **999 CV: Surgen rumores de que las fuerzas de Címbar y Aerospina han sido rodeadas y destruidas por los piratas asistidos por un nuevo enemigo procedente de los propios mares. Los viajes se hacen peligrosos a medida que las estructuras de poder de la propia Címbar, siguiendo a las de Khessenta, se descentralizan en ciudades-estado, señores de la guerra locales y ejércitos privados. Comienzo de la campaña.**
