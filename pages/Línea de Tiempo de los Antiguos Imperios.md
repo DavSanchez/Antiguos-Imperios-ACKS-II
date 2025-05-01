@@ -25,10 +25,10 @@
 - 205 DR: Mulhorand and Unther chase defeated barbarians back to their base settlement and exterminate them. A dying shaman prophecies that their empires shall soon crumble.
 - 482 DR: Delthuntle and Laothkund break free of Unther.
 - 504 DR: Teth and Nethra declare their independence. Unther begins a long campaign against the North Coast Cities.
-- 643 DR: 
-  679 DR
-  681 DR
-  731 DR
+- 643 DR: The wizard Nezram leaves his tower on the shores of Azulduth.
+- 679 DR: Unther forced to recognize the independence of the North Coast Cities. Unther never recovers from this long, costly, and bloody campaign. End of Second Untheric Empire.
+- 681 DR: Nezram's tower destroyed by the green dragon, Chathuulandroth. Nezram's children scattered or slain.
+- 731 DR: 
   823 DR
   922 DR
   929 DR
@@ -39,20 +39,9 @@
   
   
   
-  Unther forced to recognize
-  the independence of the
-  North Coast Cities. Unther
-  never recovers from this
-  long, costly, and bloody
-  campaign. End of Second
-  Untheric Empire.
-  Nezrams tower destroyed
-  by the green dragon, Cha-
-  thuulandroth. Nezrams
-  children scattered or slain.
-  Second Great Flood of the
-  River Alamber devastates
-  Unthalass.
+  
+  
+  
   Mourktar breaks free of
   Unther.
   Battle of Thazalhar. The Red
