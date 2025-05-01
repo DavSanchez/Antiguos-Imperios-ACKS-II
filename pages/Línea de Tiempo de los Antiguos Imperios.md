@@ -5,7 +5,7 @@
 - -1961 CV: Los Dioses acuerdan que el Río de las Espadas será la frontera eterna de Mulhorand y Unzher. Hay conflictos ocasionales, pero nunca una guerra abierta entre los dos poderes sureños.
 - -1500 CV: Expansión de Unzher y Mulhorand.
 - -1250 CV: Unzher batalla contra los elfos del Bosque Yuir y los enanos de la Gran Brecha. Mulhorand, mayormente, los ignora.
-- -1087 CV: El Adepto Teúrgo Zhayd se rebela, junto a la mayoría de los magos de Unzher y Mulhorand.
+- -1087 CV: El Adepto Teúrgo Zhayd, último aprendiz de los magos de Imaskar, se rebela junto a la mayoría de los magos de Unzher y Mulhorand.
 - -1081 CV: Zhayd y sus conspiradores son derrotados. Zhayd es ejecutado, pero profetiza que Mulhorand y Unzher nunca serán igual de grandes de nuevo.
 - -1076 CV: Se abre el Umbral Orco.
 - -1075 CV: Primera batalla de las Guerras del Umbral Orco. Los Orcos arrasan muchos asentamientos norteños, matando a miles.
