@@ -25,9 +25,9 @@
 - 205 DR: Mulhorand and Unther chase defeated barbarians back to their base settlement and exterminate them. A dying shaman prophecies that their empires shall soon crumble.
 - 482 DR: Delthuntle and Laothkund break free of Unther.
 - 504 DR: Teth and Nethra declare their independence. Unther begins a long campaign against the North Coast Cities.
-- 643 CV: The wizard Nezram leaves his tower on the shores of Azulduth.
-- 679 CV: Unther forced to recognize the independence of the North Coast Cities. Unther never recovers from this long, costly, and bloody campaign. End of Second Untheric Empire.
-- 681 CV: La torre de Nezram es destruida por el dragón verde. Los hijos de Nezram se dispersan o son asesinados.Nezram's tower destroyed by the green dragon, Chathuulandroth. Nezram's children scattered or slain.
+- 643 CV: El mago Nezram abanThe wizard Nezram leaves his tower on the shores of Azulduth.
+- 679 CV: Unzher es forzada a reconocer la independencia de las Ciudades de la Costa Norte. Unzher nunca se recupera de esta larga, costosa y sangrienta campaña. Fin del Segundo Imperio Unzhérico.
+- 681 CV: La torre de Nezram es destruida por el dragón verde. Los hijos de Nezram se dispersan o son asesinados.
 - 731 CV: La Segunda Gran Inundación del Río Alamber devasta Unzhalass.
 - 823 CV: Mourktar se libera de Unther.
 - 909 CV: La Alianza de Khessenta expulsa a Unzher al otro lado de las Montañas Jinetes del Cielo.
