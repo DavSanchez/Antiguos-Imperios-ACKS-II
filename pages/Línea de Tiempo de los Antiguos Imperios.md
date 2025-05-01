@@ -3,8 +3,8 @@
 - -2087 CV: The god Enlil finds pearls on the west coast of the Alamber. He founds the city of Unthalass ("City of Gems").
 - -1967 CV: Unther and Mulhorand clash at the River of Swords. The first Mulhorandi/Unther War begins.
 - -1961 CV: Gods agree that the River of Swords will be the eternal boundary between Mulhorand and Unther. There are occasional clashes, but there is never a major war between the two southern powers again.
-- -1500 CV: Expansion of Unther and Mulhorand.
-- -1250 CV: Unzher batalla contra los elfos del bo battles against the elves of Yuirwood and the dwarves of the Great Rift. Mulhorand, for the most part, ignores them.
+- -1500 CV: Expansión de Unzher y Mulhorand.
+- -1250 CV: Unzher batalla contra los elfos del Bosque Yuir y los enanos de la Gran Brecha. Mulhorand, mayormente, los ignora.
 - -1087 CV: El Adepto Teúrgo Thayd se rebela, junto a la mayoría de los magos de Unzher y Mulhorand.
 - -1081 CV: Thayd y sus conspiradores derrotados. Thayd es ejecutado, pero profetiza que Mulhorand y Unzher nunca serán igual de grandes de nuevo.
 - -1076 CV: Se abre el Umbral Orco.
