@@ -13,8 +13,8 @@
 - -1069 DR: Orc pantheon defeated. Orcs driven from the south.
 - -1050 DR: Power struggle between Osiris and Set to succeed Re. Set murders Osiris.
 - -1048 DR: Osiris resurrected by Isis. Horus-Re battles Set, casts him into the desert and becomes chief of the Mulhorand pantheon. Set worship is abolished. The tower of Set in Skuld is destroyed.
-- -900 DR: Rise of Narfell and Raumathar.
-- -734 DR: Enlil decides to leave the Realms. Gilgeam, son of Enlil, becomes King of Unther. This is Year 1 of the Untheric calendar.
+- -900 CV: Auge de Narfel and Rómathar.
+- -734 CV: Enlil decide abandonar los Reinos. Gilgeam, hijo de Enlil, se convierte en Rey de Unzher. Este es el Año 1 del calendario Unzhérico.
 - -623 CV: Narfel intenta invadir Mulhorand y Unzher por mar. Las dos naciones sureñas derrotan a la flota de Narfel. Ningún imperio del norte intenta invadir los Antiguos Imperios de nuevo.
 - -150 CV: La gran conflagración. Narfel and Rómathar son destruidas en una batalla final. Monstruos y poderes menores invocados en la última batalla invaden el sur cuando esta acaba.
 - -148 CV: La batalla final de los dioses-reyes. Una alianza de los Convocados es derrotada y enviada de vuelta a sus mundos de origen.
