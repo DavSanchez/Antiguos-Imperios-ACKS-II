@@ -1,7 +1,7 @@
 - -2488 CV: The great kingdom of Raurin destroyed. Exiles flee into the west, eventually settling on the shores of the Alamber Sea.
 - -2135 CV: The god Re founds the city of Skuld and gives it the name "City of Shadows". This is Year 1 of the Mulhorand calendar.
-- -2087 CV: The god Enlil finds pearls on the west coast of the Alamber. He founds the city of Unthalass ("City of Gems").
-- -1967 CV: Unzher and Mulhorand clash at the River of Swords. The first Mulhorandi/Unther War begins.
+- -2087 CV: El dios Enlil encuentra perlas en la costa oeste del Alamber. Funda la ciudad  on the west coast of the Alamber. He founds the city of Unthalass ("City of Gems").
+- -1967 CV: Unzher y Mulhorand chocan en el Río de las Espadasc. La primera Guerra entre Mulhorand y Unzher comienza.
 - -1961 CV: Los Dioses acuerdan que el Río de las Espadas será la frontera eterna de Mulhorand y Unzher. Hay conflictos ocasionales, pero nunca una guerra abierta entre los dos poderes sureños.
 - -1500 CV: Expansión de Unzher y Mulhorand.
 - -1250 CV: Unzher batalla contra los elfos del Bosque Yuir y los enanos de la Gran Brecha. Mulhorand, mayormente, los ignora.
