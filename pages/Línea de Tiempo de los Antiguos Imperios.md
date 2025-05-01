@@ -1,4 +1,4 @@
-- -2488 CV: El gran reino de Raurin es destruido. Los exiliados huyen al oeste, asentándose en las costas del Mar de Alamber.
+- -2488 CV: El gran reino de Imaskar en el desierto de Raurin es destruido. Los exiliados huyen al oeste, asentándose en las costas del Mar de Alamber.
 - -2135 CV: El dios Ra funda la ciudad de Skuld y le da el nombre "Ciudad de las Sombras". Este es el Año 1 del calendario Mulhorandino.
 - -2087 CV: El dios Enlil encuentra perlas en la costa oeste del Alamber. Funda la ciudad de Unzhalass ("Ciudad de las Gemas").
 - -1967 CV: Unzher y Mulhorand chocan en el Río de las Espadasc. La primera Guerra entre Mulhorand y Unzher comienza.
