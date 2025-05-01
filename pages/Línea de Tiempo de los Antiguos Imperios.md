@@ -33,4 +33,4 @@
 - 922 DR: Battle of Thazalhar. The Red Wizards ensure their independence from Mulhorand. End of Second Mulhorand Empire.
 - 929 DR: Alliance of Chessenta drives Unther back beyond the Riders to the Sky Mountains.
 - 976 DR: Mulhorand invasion of Thay defeated at the River Thazarim.
-- 1018 DR: Death of King Tchazzar in battle against the sahuagin. His body is never found.
+- 1018 DR: Tchazzar lidera una campaña contra Death of King Tchazzar in battle against the sahuagin. His body is never found.
