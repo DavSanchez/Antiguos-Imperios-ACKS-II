@@ -15,34 +15,9 @@
 - -1048 DR: Osiris resurrected by Isis. Horus-Re battles Set, casts him into the desert and becomes chief of the Mulhorand pantheon. Set worship is abolished. The tower of Set in Skuld is destroyed.
 - -900 DR: Rise of Narfell and Raumathar.
 - -734 DR: Enlil decides to leave the Realms. Gilgeam, son of Enlil, becomes King of Unther. This is Year 1 of the Untheric calendar.
-- -623 DR: Narfell attempts invasion of Mulhorand and Unther by sea. The two southern nations defeat the Narfell fleet. Neither northern empire at-
-  tempts to invade the Old
-  Empires again.
-  -150 DR
-  -148 DR
-  -135 DR
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  The great conflagration.
-  Narfell and Raumathar de-
-  stroyed in one final battle.
-  Monsters and minor powers
-  summoned in the last battle
-  invade the south after the
-  battle ends.
-  The god-kings final battle.
-  An alliance of the Sum-
-  moned is defeated and they
-  are sent back to their home
-  planes.
-  Founding of Bezantur.
+- -623 DR: Narfell attempts invasion of Mulhorand and Unther by sea. The two southern nations defeat the Narfell fleet. Neither northern empire attempts to invade the Old Empires again.
+  -150 DR: The great conflagration. Narfell and Raumathar destroyed in one final battle. Monsters and minor powers summoned in the last battle invade the south after the battle ends.
+  -148 DR: The god-kings' final battle. An alliance of the Summoned is defeated and they are sent back to their home planes.
+  -135 DR: Founding of Bezantur.
   Other cities soon built on
   the coastal areas of the Wiz
