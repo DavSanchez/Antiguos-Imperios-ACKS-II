@@ -34,6 +34,6 @@
 - 929 DR: Alliance of Chessenta drives Unther back beyond the Riders to the Sky Mountains.
 - 976 DR: Mulhorand invasion of Thay defeated at the River Thazarim.
 - 979 DR: Mordulkin defies the king of Cimbar, beginning the break-up of Chessenta into squabbling city-states.
-- 1018 DR: Tchazzar lidera una campaña naval contra piratas procedentes del Mar de Alamber, apoyado por los ejércitos de todos los dominios de Címbar hasta las tierras fronterizas y sus aliados de Aerospina.
-- 1019 CV: Las ciudades de Akanax y Suurenar aumentan su oposición a Címbar. Lutcheq invade Mordulkin pero pierde la guerra; las pérdidas se atribuyen a magos-espía al servicio de Mordulkin. Lutcheq comienza su persecución de magos.
-- **1020 CV: Comienzo de la campaña.**
+- 997 DR: Tchazzar lidera una campaña naval contra piratas procedentes del Mar de Alamber, apoyado por los ejércitos de todos los dominios de Címbar hasta las tierras fronterizas y sus aliados de la ciudad de Aerospina.
+- 998 CV: Las ciudades de Akanax y Suurenar aumentan su oposición a Címbar. Lutcheq invade Mordulkin pero pierde la guerra; las pérdidas se atribuyen a magos-espía al servicio de Mordulkin. Lutcheq comienza su persecución de magos.
+- **999 CV: Comienzo de la campaña.**
