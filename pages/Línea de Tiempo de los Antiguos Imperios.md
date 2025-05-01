@@ -10,9 +10,9 @@
 - -1076 DR: Orcgate opens.
 - -1075 DR: First battle of the Orcgate Wars. Orcs overrun many northern settlements, slaying thousands.
 - -1071 DR: Battle of the Gods. Re is slain by the orc-deity Gruumsh.
-- -1069 DR: Orc pantheon defeated. Orcs driven from the south.
-- -1050 DR: Power struggle between Osiris and Set to succeed Re. Set murders Osiris.
-- -1048 DR: Osiris es resucitado por Isis. Horus-Re lucha contra Set, los expulsa al desierto y se convierte en jefe del panteón Mulhorandino. El culto a Set es abolido. La torre de Set en Skuld es destruida.
+- -1069 DR: El panteón Orco es derrotado. Se expulsa a los Orcs driven from the south.
+- -1050 CV: Conflictos de poder entre Osiris y Set para suceder a Ra. Set asesina a Osiris.
+- -1048 CV: Osiris es resucitado por Isis. Horus-Ra lucha contra Set, los expulsa al desierto y se convierte en jefe del panteón Mulhorandino. El culto a Set es abolido. La torre de Set en Skuld es destruida.
 - -900 CV: Auge de Narfel and Rómathar.
 - -734 CV: Enlil decide abandonar los Reinos. Gilgeam, hijo de Enlil, se convierte en Rey de Unzher. Este es el Año 1 del calendario Unzhérico.
 - -623 CV: Narfel intenta invadir Mulhorand y Unzher por mar. Las dos naciones sureñas derrotan a la flota de Narfel. Ningún imperio del norte intenta invadir los Antiguos Imperios de nuevo.
