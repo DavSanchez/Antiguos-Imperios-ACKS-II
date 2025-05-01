@@ -22,10 +22,10 @@
 - 1 DR: Founding of Cormyr. This year is 2134 on the Mulhorand calendar.
 - 108 DR: First Great Flood of the River Alamber nearly destroys Unthalass.
 - 202 DR: Tribes of "barbarians" from the south invade southern Unther and Mulhorand.
-  205 DR
-  482 DR
-  504 DR
-  643 DR
+- 205 DR: Mulhorand and Unther chase defeated barbarians back to their base settlement and exterminate them. A dying shaman prophecies that their empires shall soon crumble.
+- 482 DR: Delthuntle and Laothkund break free of Unther.
+- 504 DR: Teth and Nethra declare their independence. Unther begins a long campaign against the North Coast Cities.
+- 643 DR: 
   679 DR
   681 DR
   731 DR
@@ -35,22 +35,10 @@
   
   
   
-  Mulhorand and Unther
-  chase defeated barbarians
-  back to their base settlement
-  and exterminate them. A
-  dying shaman prophecies
-  that their empires shall soon
-  crumble.
-  Delthuntle and Laothkund
-  break free of Unther.
-  Teth and Nethra declare their
-  independence. Unther begins
-  a long campaign against the
-  North Coast Cities.
-  The wizard Nezram leaves
-  his tower on the shores of
-  Azulduth.
+  
+  
+  
+  
   Unther forced to recognize
   the independence of the
   North Coast Cities. Unther
