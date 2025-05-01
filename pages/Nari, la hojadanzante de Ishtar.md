@@ -4,7 +4,7 @@ public:: true
 - **All images are the property of their respective owners**.
 - ## Secuaces a su servicio
 - [[Zia]], hojadanzante de [[Ishtar]] [khessentana]([[Khessenta]]).
-- [[Ralmevik]], berserker [rashemí]([[Rashemen]]).
+- [[Ralmevik (RIP)]], berserker [rashemí]([[Rashemen]]).
 - ## Mercenarios a su servicio
 - 28 berserkers rashemíes (infantería pesada veterana, bárbaros nv. 1)
 - 8 líderes berserker rashemíes (infantería pesada veterana, bárbaros nv. 2)

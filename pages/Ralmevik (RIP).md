@@ -6,6 +6,6 @@ public:: true
 - Es un fiero guerrero, pero también trae el conocimiento de la medicina de las brujas de Rashemen, útil para tratar envenenamientos y enfermedades.
 - Ha quedado *embrujado* por [[Nari, la hojadanzante de Ishtar]], en más de un sentido.
 - ![32D093E5-61C0-4AC4-BCA8-993569D8F4E6_1_102_o.jpeg](../assets/32D093E5-61C0-4AC4-BCA8-993569D8F4E6_1_102_o_1746128559753_0.jpeg)
--
+- Muerto por veneno de víbora en la expedición al Antiguo Templo de Ishtar.
 - ## Estadísticas
 - Lealtad: +2 (temporal)
