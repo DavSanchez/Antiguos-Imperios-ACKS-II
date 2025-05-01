@@ -8,9 +8,9 @@
 - -1087 DR: The Thurgist Adept Thayd rebels, along with most of the wizards in Unther and Mulhorand.
 - -1081 DR: Thayd and his conspirators defeated. Thayd is executed, but prophesies that Mulhorand and Unther will never be as great again.
 - -1076 DR: Orcgate opens.
-- -1075 DR: First battle of the Orcgate Wars. Orcs overrun many northern settlements, slaying thousands.
-- -1071 DR: Battle of the Gods. Re is slain by the orc-deity Gruumsh.
-- -1069 DR: El panteón Orco es derrotado. Se expulsa a los Orcs driven from the south.
+- -1075 CV: Primera batalla de las Guerras del Umbral Orco. Los Orcos arrasan muchos asentamientos norteños, matando a miles. many northern settlements, slaying thousands.
+- -1071 CV: Batalla de los Dioses. Ra es asesinado por la deidad orca Gruumsh.
+- -1069 CV: El panteón Orco es derrotado. Se expulsa a los Orcos del sur.
 - -1050 CV: Conflictos de poder entre Osiris y Set para suceder a Ra. Set asesina a Osiris.
 - -1048 CV: Osiris es resucitado por Isis. Horus-Ra lucha contra Set, los expulsa al desierto y se convierte en jefe del panteón Mulhorandino. El culto a Set es abolido. La torre de Set en Skuld es destruida.
 - -900 CV: Auge de Narfel and Rómathar.
