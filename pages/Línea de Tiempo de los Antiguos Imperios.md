@@ -35,7 +35,7 @@ public:: true
 - 909 CV: La Alianza de Khessenta expulsa a Unzher al otro lado de las Montañas Jinetes del Cielo.
 - 922 CV: Batalla de Thazalhar. Los Magos Rojos aseguran su independencia de Mulhorand. Fin del Segundo Imperio de Mulhorand.
 - 976 CV: La invasión de Mulhorand por Zhay es derrotada en el Río Thazarim.
-- 979 CV: Mordulkin desafía al rey de Címbar, comenzando la ruptura de Khesenta en ciudad-estado enfrentadas.
+- 979 CV: Mordulkin desafía al rey de Címbar, comenzando la ruptura de Khesenta en ciudades-estado enfrentadas.
 - 997 CV: Tchazzar, rey de Címbar, lidera una campaña naval contra piratas procedentes del Mar de Alamber, apoyado por los ejércitos de todos los dominios de Címbar hasta las tierras fronterizas y sus aliados de la ciudad de Aerospina.
 - 998 CV: Las ciudades de Akanax y Suurenar aumentan sus ejércitos. Lutcheq invade Mordulkin pero pierde la guerra; las pérdidas se atribuyen a magos-espía al servicio de Mordulkin. Lutcheq comienza su persecución de magos.
 - **999 CV: Surgen rumores de que las fuerzas de Címbar y Aerospina han sido rodeadas y destruidas por los piratas asistidos por un nuevo enemigo procedente de los propios mares. Los viajes se hacen peligrosos a medida que las estructuras de poder de la propia Címbar, siguiendo a las de Khessenta, se descentralizan en ciudades-estado, señores de la guerra locales y ejércitos privados. Comienzo de la campaña.**
