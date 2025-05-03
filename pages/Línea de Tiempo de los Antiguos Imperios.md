@@ -3,7 +3,7 @@ public:: true
 - -2488 CV: El gran reino de Imaskar en el desierto de Raurin es destruido. Los exiliados huyen al oeste, asentándose en las costas del Mar de Alamber.
 - -2135 CV: El dios Ra funda la ciudad de Skuld y le da el nombre "Ciudad de las Sombras". Este es el Año 1 del calendario Mulhorandino.
 - -2087 CV: El dios Enlil encuentra perlas en la costa oeste del Alamber. Funda la ciudad de Unzhalass ("Ciudad de las Gemas").
-- -1967 CV: Unzher y Mulhorand chocan en el Río de las Espadasc. La primera Guerra entre Mulhorand y Unzher comienza.
+- -1967 CV: Unzher y Mulhorand chocan en el Río de las Espadas. La primera Guerra entre Mulhorand y Unzher comienza.
 - -1961 CV: Los Dioses acuerdan que el Río de las Espadas será la frontera eterna de Mulhorand y Unzher. Hay conflictos ocasionales, pero nunca una guerra abierta entre los dos poderes sureños.
 - -1500 CV: Expansión de Unzher y Mulhorand.
 - -1250 CV: Unzher batalla contra los elfos del Bosque Yuir y los enanos de la Gran Brecha. Mulhorand, mayormente, los ignora.
