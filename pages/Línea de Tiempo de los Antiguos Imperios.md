@@ -15,7 +15,7 @@ public:: true
 - -1069 CV: El panteón Orco es derrotado. Se expulsa a los Orcos del sur.
 - -1050 CV: Conflictos de poder entre Osiris y Set para suceder a Ra. Set asesina a Osiris.
 - -1048 CV: Osiris es resucitado por Isis. Horus-Ra lucha contra Set, los expulsa al desierto y se convierte en jefe del panteón Mulhorandino. El culto a Set es abolido. La torre de Set en Skuld es destruida.
-- -900 CV: Auge de Narfel y Rómathar.
+- -900 CV: Auge de Narfel y Raumathar.
 - -734 CV: Enlil decide abandonar los Reinos. Gilgeam, hijo de Enlil, se convierte en Rey de Unzher. Este es el Año 1 del calendario Unzhérico.
 - -623 CV: Narfel intenta invadir Mulhorand y Unzher por mar. Las dos naciones sureñas derrotan a la flota de Narfel. Ningún imperio del norte intenta invadir los Antiguos Imperios de nuevo.
 - -150 CV: La gran conflagración. Narfel and Rómathar son destruidas en una batalla final. Monstruos y poderes menores invocados en la última batalla invaden el sur cuando esta acaba.
