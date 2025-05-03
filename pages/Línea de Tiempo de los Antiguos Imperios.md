@@ -18,7 +18,7 @@ public:: true
 - -900 CV: Auge de Narfel y Raumathar.
 - -734 CV: Enlil decide abandonar los Reinos. Gilgeam, hijo de Enlil, se convierte en Rey de Unzher. Este es el Año 1 del calendario Unzhérico.
 - -623 CV: Narfel intenta invadir Mulhorand y Unzher por mar. Las dos naciones sureñas derrotan a la flota de Narfel. Ningún imperio del norte intenta invadir los Antiguos Imperios de nuevo.
-- -150 CV: La gran conflagración. Narfel and Rómathar son destruidas en una batalla final. Monstruos y poderes menores invocados en la última batalla invaden el sur cuando esta acaba.
+- -150 CV: La gran conflagración. Narfel and Raumathar son destruidas en una batalla final. Monstruos y poderes menores invocados en la última batalla invaden el sur cuando esta acaba.
 - -148 CV: La última batalla de los dioses-reyes. Una alianza de los Invocados es derrotada y enviada de vuelta a sus mundos de origen.
 - -135 CV: Fundación de Bezantur. Otras ciudades pronto se construyen en las zonas costeras de la Cuenca del Mago a medida que Mulhorand y Unzher se expanden de nuevo hacia el norte.
 - 1 CV: Fundación de Cormyr. Este año es el 2134 en el calendario de Mulhorand.
