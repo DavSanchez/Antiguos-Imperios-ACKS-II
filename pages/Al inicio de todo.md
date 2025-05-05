@@ -17,9 +17,9 @@ public:: true
 - [[Nari, la hojadanzante de Ishtar]]
 - [[Shamash-Nasir, el cruzado de Amaunator]]
 - [[Eryndor, el filo nocturno élfico]]
-- ## Personajes No Jugadores
-- [[Ulirán Valerius]]
-- [[Nicus Balens]]
-- [[Süromus Drakon]]
+- ## Personajes No Jugadores Relevantes
+- [[Ulirán Valerius]], legado de Türos Tem.
+- [[Nicus Balens]], legado de Türos Aster.
+- [[Süromus Drakon]], legado de Türos Spen.
 - # Dominios
 - [[Türos Lilium]]
