@@ -9,14 +9,15 @@ public:: true
 - # Personajes
 - [[Argos, el mago]]
 - [[Pakao, el explorador]]
-- [[Eos, el gladiador (RIP)]]
 - [[Phessa, la sacerdotisa de Neftys]]
-- [[Astra, el guardián de la bóveda enano (RIP)]]
 - [[Kobra, la ladrona]]
 - [[Astrid, la furia enana]]
 - [[Nari, la hojadanzante de Ishtar]]
 - [[Shamash-Nasir, el cruzado de Amaunator]]
 - [[Eryndor, el filo nocturno élfico]]
+- # Personajes caídos
+- [[Eos, el gladiador (RIP)]]
+- [[Astra, el guardián de la bóveda enano (RIP)]]
 - ## Personajes No Jugadores Relevantes
 - [[Ulirán Valerius]], legado de Türos Tem.
 - [[Nicus Balens]], legado de Türos Aster.
