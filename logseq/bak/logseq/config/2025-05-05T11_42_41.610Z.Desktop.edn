@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Tierras Fronterizas"]
+ :favorites ["Al inicio de todo" "Tierras Fronterizas"]
 
  ;; Set flashcards interval.
  ;; Expected value:
