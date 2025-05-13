@@ -3,4 +3,4 @@ public:: true
 - ![image.png](../assets/image_1747073496852_0.png)
 - Cyfaraun es la capital de la prefectura de las Tierras Fronterizas de Címbar, en [[Khessenta]]. Era una ciudad élfica hasta que [[Unzher]] la tomó tras la extinción del Bajo Imáskar, quedando liberada tras la independencia de Khessenta como parte de los dominios de Címbar. Mucha arquitectura élfica es aún visible en los viejos distritos de la ciudad. Como la mayoría de grandes ciudades de Khessenta, Cyfaraun tiene un gran sistema de cloacas, pero las cloacas de Cyfaraun son inusuales porque se construyeron a partir de las ruinas de una ciudad élfica aún más antigua. Los bardos locales claman que la arquitectura subterránea de la ciudad abarca de todo, desde catacumbas antiguas hasta templos demoníacos y escondrijos criminales. Los residentes de la ciudad tienden a decir que esos bardos tienen la boca tan sucia como las cloacas de las que hablan.
 - ![image.png](../assets/image_1747092063246_0.png)
-- im
+-
