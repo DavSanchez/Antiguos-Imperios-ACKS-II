@@ -14,4 +14,5 @@ public:: true
 	- Distrito del Lago
 	- Distrito de Palacio
 - A pesar de que los Cimbaritas prefieren una disposición cuadriculada con barrios cuidadosamente separados, la larga historia y la peculiar geografía de Cyfaraun han resultado en que los barrios tengan formas extrañas y estén separados por límites casi aleatorios. Las murallas Imperiales (construidas por los Cimbaritas) circunvalan los ocho distritos, mientras que los comúnmente llamados Muros Viejos (construidos por los elfos) forman un cinturón interior que rodea al Distrito Viejo y el Distrito Puente. Las murallas interiores construidas para proteger los edificios de gobierno en el Distrito de Palacio se conocen como Murallas Prefecturales.
-- ## Nomos I
+- ## Nomos I – Distrito Viejo
+- El distrito más densamente poblado de la ciudad, abarca casi la totalidad de la vieja Cyfaraun. Sus fronter
