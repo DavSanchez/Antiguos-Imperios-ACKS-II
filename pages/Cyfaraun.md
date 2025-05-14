@@ -13,4 +13,4 @@ public:: true
 	- Distrito de los Templos
 	- Distrito del Lago
 	- Distrito de Palacio
-- A pesar de que los Khessentanos prefieren una disposición cuadriculada con
+- A pesar de que los Khessentanos prefieren una disposición cuadriculada con barrios cuidadosamente separados, la larga historia y la peculiar geografía de Cyfaraun han resultado en límites casi aleatorios
