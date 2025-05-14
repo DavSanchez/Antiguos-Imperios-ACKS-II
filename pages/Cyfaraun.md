@@ -25,4 +25,4 @@ public:: true
 - ## Nomos V – Distrito de la Torre
 - El Distrito de la Torre está orientado sobre un eje suroeste-noreste. Su extremo noroeste es el banco oeste del Mirmen, y su borde suroeste está marcado por los Muros Viejos. En el noreste termina en las Murallas Imperiales, cerca de la prodigiosa Pylos Ivor Orë ("Puerta del Río Norte") y al sureste en la Cesta Tirenium ("Calle Capital"). La Saromen Sür ("Torre del Conocimiento") domina la vista del distrito y la ciudad, ensombreciendo los también impresionantes Baños Públicos. El Distrito de la Torre es el hogar de muchos alquimistas, magos, sabios y otros eruditos.
 - ## Nomos VI – Distrito de los Templos
-- El Distrito de los Templos abarca la porción sureste de la ciudad. Sus límites están demarcados por la Cesta Vothë ("Calle Sur") al norte, las Murallas Imperiales
+- El Distrito de los Templos abarca la porción sureste de la ciudad. Sus límites están demarcados por la Cesta Vothë ("Calle Sur") al norte, las Murallas Imperiales entre la Pylos Gollë ("Puerta Este") y la Pylos Stodia ("Puerta Vigilante") al sur y el este, y los Muros Viejos al oeste, donde la
