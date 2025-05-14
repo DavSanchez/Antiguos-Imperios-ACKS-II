@@ -1,1 +1,1 @@
-- El reino de los elfos que existió antes que Imaskar
+- El reino de los elfos que existió antes que Imaskar, fue coetáneo con este durante un tiempo y desapareció
