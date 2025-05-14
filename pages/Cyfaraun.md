@@ -6,6 +6,11 @@ public:: true
 - ## Distritos de Cyfaraun
 - La ciudad de Cyfaraun está dividida en ocho distritos administrativos (*nomos*):
 	- Distrito Viejo
-	- Distrito del Festival
-	- Distrito de Puentes
+	- Distrito Festival
+	- Distrito Puente
 	- Distrito Plaza
+	- Distrito de la Torre
+	- Distrito de los Templos
+	- Distrito del Lago
+	- Distrito de Palacio
+- A pesar de que los Khessentanos prefieren una disposición cuadriculada con
