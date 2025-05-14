@@ -17,4 +17,4 @@ public:: true
 - ## Nomos I – Distrito Viejo
 - El distrito más densamente poblado de la ciudad, abarca casi la totalidad de la vieja Cyfaraun. Su frontera con el Distrito Puente está marcada por la Cesta Mirmen Gollë ("Calle Roca Negra del Este"), mientras que su frontera con el distrito del Lago es la Cesta Tirenium ("Calle Capital"). Los Muros Viejos al noreste la separan de los distritos de la Torre y de Palacio, con la Pylos Aurigëus ("Puerta del Patricio") como pasaje entre ellos. Destacan como lugares prominentes el Cuartel de la Guardia de la Ciudad, el Emporium, la Cofradía de Mercaderes, la Cofradía de Mercenarios y El Visón. El Distrito Viejo está densamente poblado por artesanos, trabajadores, tenderos, taberneros y comerciantes, y por supuesto por rameras, matones y vagabundos.
 - ## Nomos II – Distrito Festival
--
+- El Distrito Festival recibe este nombre por las frecuentes celebraciones y juegos llevados a cabo en el Anfiteatro Imperial. El distrito se extiende hacia el oeste desde el
