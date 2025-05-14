@@ -13,4 +13,4 @@ public:: true
 	- Distrito de los Templos
 	- Distrito del Lago
 	- Distrito de Palacio
-- A pesar de que los Khessentanos prefieren una disposición cuadriculada con barrios cuidadosamente separados, la larga historia y la peculiar geografía de Cyfaraun han resultado en límites casi aleatorios
+- A pesar de que los Cimbaritas prefieren una disposición cuadriculada con barrios cuidadosamente separados, la larga historia y la peculiar geografía de Cyfaraun han resultado en que los barrios tengan formas extrañas y estén separados por límites casi aleatorios. Las murallas Imperiales (construidas por los Cimbaritas) circunvalan los ocho distritos, mientras que las comúnmente llamadas
