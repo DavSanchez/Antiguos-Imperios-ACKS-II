@@ -1,1 +1,1 @@
-- Líder de las Guardianas del Fuego, clero de Nephth
+- Líder de las Guardianas del Fuego, clero de [[Nephthys]] de [[Cyfaraun]]. Goza de buena relación con la familia del prefecto.
