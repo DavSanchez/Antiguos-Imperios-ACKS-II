@@ -1,1 +1,2 @@
-- Es bueno que mis poderes arcanos inspiren a los hombres. Su sacrificio en esta
+- Es bueno que mis poderes arcanos inspiren a los hombres. ¡Su sacrificio en la peste de esta cloaca me dará la inmortalidad!
+- Debemos apartarnos de las guaridas de contrabando de Faunus a no ser que, por elmi
