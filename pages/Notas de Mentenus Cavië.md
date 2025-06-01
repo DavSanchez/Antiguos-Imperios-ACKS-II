@@ -9,4 +9,4 @@ public:: true
 - El tesorero me contó que un aventurero vendió recientemente unos brazales élficos al capítulo. El idiota parecía ignorar su auténtico valor, pues eran brazales de armadura. Deseé hablar con el hombre, pero escuché que Faunus lo hizo matar por rechazar su puja. ¡Qué desperdicio! ¿Y su hubiese encontrado la Infraciudad? Podría haberle persuadido de mostrarme el camino.
 - Terkinos y su manada de hombres rata explorarán del mediodía al anochecer. Abimbola y su manada de hombres rata explorarán de medianoche al mediodía. ¡Debemos buscar a todas horas, la inmortalidad no espera!
 - Debo ser visto en el capítulo con más frecuencia, para no levantar sospechas en nuestro siempre fiel y serio regente. Volveré cuando la luna este llena en el cielo nocturno para dar mis respetos a la Rata Astada y leer los informes que mis acólitos me hayan preparado.
-- ¡El éxtasis de la transformación! La licantropía es un don
+- ¡El éxtasis de la transformación! La licantropía es un don diferente a cualquier otro que haya experimentado. Nunca había entendido lo limitado que era antes.
