@@ -1,0 +1,3 @@
+- El patrón [[Liber Faunus]] desea nuestras bendiciones sobre...
+	- Huranos, un mercader de joyas Khessentano, para que entienda el valor de los servicios del patrón.
+	-
