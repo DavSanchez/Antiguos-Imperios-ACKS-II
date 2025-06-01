@@ -5,4 +5,7 @@
 	- Bodilkas, explorador Khondazhano, que lidera caravanas que declinaron los servicios del patrón.
 	- "Las palabras de confianza, para que el patrón nos reconozca: *rocío de la mañana*".
 - El patrón Mentenus desea nuestras bendiciones sobre...
-	- Gundus, oficial de la Guardia de la Ciudad,
+	- Gundus, oficial de la Guardia de la Ciudad, por tener un interés malsano en enviar patrullas a la Infraciudad.
+	- Fionntan y Tomman, elfos que se han obsesionado con encontrar reliquias ancestrales en la Infraciudad en lugar de seguir con sus vidas.
+	- "Las palabras de confianza, para que el patrón nos reconozca: *moho viscoso*".
+-
