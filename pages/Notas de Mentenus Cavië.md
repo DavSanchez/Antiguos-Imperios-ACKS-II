@@ -2,4 +2,5 @@ public:: true
 
 - Es bueno que mis poderes arcanos inspiren a los hombres. ¡Su sacrificio en la peste de esta cloaca me dará la inmortalidad!
 - Debemos apartarnos de las guaridas de contrabando de Faunus a no ser que, por eliminación, determine que la entrada a la Infraciudad está allí. Mi poder es gigante comparado con el suyo, pero será mejor evitar llamar la atención a no ser que sea absolutamente necesario.
-- He logrado lo que el fabuloso Capitán de la Noche nunca consiguó — encontrar la fuente de la infestación de hombres rata que una vez plagó a Cyfaraun.
+- He logrado lo que el fabuloso Capitán de la Noche nunca consiguó — encontrar la fuente de la infestación de hombres rata que una vez plagó a Cyfaraun. Es bueno que fracasara. ¡Su fracaso es mi oportunidad de conseguir la inmortalidad! Que duerma para siempre con sus tesoros bajo la Ciudadela Solar.
+- He comunicado a mis esbirros que no se molesten en buscar al oeste de la Bajociudad. No hay necesidad de buscar al otro lado del río ya
